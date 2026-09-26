@@ -1,0 +1,1700 @@
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+Corrida ddqn-dueling-10M | device=cuda | acciones=6 | 10,000,000 pasos
+paso     10,000 |  1819 fps | eps 0.990 | perdida 0.0000 | Q 0.000 | ultimos 20: 140.9
+paso     20,000 |  1682 fps | eps 0.980 | perdida 0.0000 | Q 0.000 | ultimos 20: 133.5
+paso     30,000 |  1736 fps | eps 0.970 | perdida 0.0000 | Q 0.000 | ultimos 20: 139.8
+paso     40,000 |  1731 fps | eps 0.960 | perdida 0.0000 | Q 0.000 | ultimos 20: 145.8
+paso     50,000 |  1637 fps | eps 0.951 | perdida 0.0000 | Q 0.000 | ultimos 20: 127.0
+paso     60,000 |   871 fps | eps 0.941 | perdida 0.0095 | Q 0.016 | ultimos 20: 182.2
+paso     70,000 |   918 fps | eps 0.931 | perdida 0.0098 | Q 0.048 | ultimos 20: 196.5
+paso     80,000 |   896 fps | eps 0.921 | perdida 0.0093 | Q 0.064 | ultimos 20: 195.2
+paso     90,000 |   824 fps | eps 0.911 | perdida 0.0092 | Q 0.090 | ultimos 20: 155.0
+paso    100,000 |   831 fps | eps 0.901 | perdida 0.0092 | Q 0.117 | ultimos 20: 178.0
+paso    110,000 |   807 fps | eps 0.891 | perdida 0.0091 | Q 0.147 | ultimos 20: 115.5
+paso    120,000 |   717 fps | eps 0.881 | perdida 0.0092 | Q 0.176 | ultimos 20: 108.5
+paso    130,000 |   755 fps | eps 0.871 | perdida 0.0093 | Q 0.208 | ultimos 20: 147.5
+paso    140,000 |   774 fps | eps 0.861 | perdida 0.0091 | Q 0.249 | ultimos 20: 149.2
+paso    150,000 |   707 fps | eps 0.852 | perdida 0.0091 | Q 0.275 | ultimos 20: 131.8
+paso    160,000 |   717 fps | eps 0.842 | perdida 0.0092 | Q 0.297 | ultimos 20: 186.5
+paso    170,000 |   715 fps | eps 0.832 | perdida 0.0090 | Q 0.319 | ultimos 20: 133.0
+paso    180,000 |   718 fps | eps 0.822 | perdida 0.0089 | Q 0.335 | ultimos 20: 158.0
+paso    190,000 |   713 fps | eps 0.812 | perdida 0.0091 | Q 0.368 | ultimos 20: 129.8
+paso    200,000 |   715 fps | eps 0.802 | perdida 0.0091 | Q 0.401 | ultimos 20: 127.2
+paso    210,000 |   709 fps | eps 0.792 | perdida 0.0090 | Q 0.423 | ultimos 20: 152.8
+paso    220,000 |   701 fps | eps 0.782 | perdida 0.0089 | Q 0.434 | ultimos 20: 184.5
+paso    230,000 |   759 fps | eps 0.772 | perdida 0.0089 | Q 0.461 | ultimos 20: 179.2
+paso    240,000 |   751 fps | eps 0.762 | perdida 0.0092 | Q 0.475 | ultimos 20: 135.2
+paso    250,000 |   761 fps | eps 0.753 | perdida 0.0086 | Q 0.487 | ultimos 20: 180.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 250,000: media 300 +- 125 | max 600 | E[mejor de 5] 465  <- mejor
+paso    260,000 |   309 fps | eps 0.743 | perdida 0.0093 | Q 0.509 | ultimos 20: 178.0
+paso    270,000 |   771 fps | eps 0.733 | perdida 0.0094 | Q 0.537 | ultimos 20: 214.0
+paso    280,000 |   773 fps | eps 0.723 | perdida 0.0101 | Q 0.566 | ultimos 20: 163.5
+paso    290,000 |   772 fps | eps 0.713 | perdida 0.0101 | Q 0.590 | ultimos 20: 160.5
+paso    300,000 |   767 fps | eps 0.703 | perdida 0.0102 | Q 0.623 | ultimos 20: 176.0
+paso    310,000 |   766 fps | eps 0.693 | perdida 0.0102 | Q 0.656 | ultimos 20: 158.8
+paso    320,000 |   746 fps | eps 0.683 | perdida 0.0104 | Q 0.658 | ultimos 20: 148.5
+paso    330,000 |   765 fps | eps 0.673 | perdida 0.0104 | Q 0.667 | ultimos 20: 174.5
+paso    340,000 |   759 fps | eps 0.663 | perdida 0.0106 | Q 0.700 | ultimos 20: 202.0
+paso    350,000 |   762 fps | eps 0.654 | perdida 0.0107 | Q 0.736 | ultimos 20: 243.0
+paso    360,000 |   761 fps | eps 0.644 | perdida 0.0109 | Q 0.783 | ultimos 20: 199.5
+paso    370,000 |   761 fps | eps 0.634 | perdida 0.0108 | Q 0.824 | ultimos 20: 211.0
+paso    380,000 |   757 fps | eps 0.624 | perdida 0.0112 | Q 0.879 | ultimos 20: 211.8
+paso    390,000 |   756 fps | eps 0.614 | perdida 0.0108 | Q 0.911 | ultimos 20: 215.0
+paso    400,000 |   758 fps | eps 0.604 | perdida 0.0109 | Q 0.934 | ultimos 20: 153.2
+paso    410,000 |   757 fps | eps 0.594 | perdida 0.0108 | Q 0.951 | ultimos 20: 233.8
+paso    420,000 |   758 fps | eps 0.584 | perdida 0.0110 | Q 0.978 | ultimos 20: 197.0
+paso    430,000 |   754 fps | eps 0.574 | perdida 0.0111 | Q 1.007 | ultimos 20: 208.2
+paso    440,000 |   752 fps | eps 0.564 | perdida 0.0105 | Q 1.029 | ultimos 20: 188.2
+paso    450,000 |   750 fps | eps 0.555 | perdida 0.0106 | Q 1.071 | ultimos 20: 179.8
+paso    460,000 |   756 fps | eps 0.545 | perdida 0.0106 | Q 1.105 | ultimos 20: 216.2
+paso    470,000 |   750 fps | eps 0.535 | perdida 0.0109 | Q 1.131 | ultimos 20: 223.2
+paso    480,000 |   759 fps | eps 0.525 | perdida 0.0114 | Q 1.187 | ultimos 20: 194.2
+paso    490,000 |   755 fps | eps 0.515 | perdida 0.0117 | Q 1.243 | ultimos 20: 212.5
+paso    500,000 |   745 fps | eps 0.505 | perdida 0.0118 | Q 1.255 | ultimos 20: 189.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 500,000: media 209 +- 31 | max 285 | E[mejor de 5] 244
+paso    510,000 |   361 fps | eps 0.495 | perdida 0.0114 | Q 1.271 | ultimos 20: 192.8
+paso    520,000 |   757 fps | eps 0.485 | perdida 0.0119 | Q 1.305 | ultimos 20: 202.2
+paso    530,000 |   753 fps | eps 0.475 | perdida 0.0119 | Q 1.377 | ultimos 20: 201.8
+paso    540,000 |   764 fps | eps 0.465 | perdida 0.0119 | Q 1.400 | ultimos 20: 208.0
+paso    550,000 |   699 fps | eps 0.456 | perdida 0.0119 | Q 1.410 | ultimos 20: 216.8
+paso    560,000 |   704 fps | eps 0.446 | perdida 0.0117 | Q 1.447 | ultimos 20: 187.8
+paso    570,000 |   705 fps | eps 0.436 | perdida 0.0118 | Q 1.467 | ultimos 20: 199.0
+paso    580,000 |   711 fps | eps 0.426 | perdida 0.0118 | Q 1.492 | ultimos 20: 238.5
+paso    590,000 |   730 fps | eps 0.416 | perdida 0.0121 | Q 1.527 | ultimos 20: 225.2
+paso    600,000 |   682 fps | eps 0.406 | perdida 0.0122 | Q 1.561 | ultimos 20: 221.2
+paso    610,000 |   704 fps | eps 0.396 | perdida 0.0121 | Q 1.600 | ultimos 20: 227.8
+paso    620,000 |   746 fps | eps 0.386 | perdida 0.0123 | Q 1.621 | ultimos 20: 254.5
+paso    630,000 |   682 fps | eps 0.376 | perdida 0.0121 | Q 1.640 | ultimos 20: 237.5
+paso    640,000 |   686 fps | eps 0.366 | perdida 0.0117 | Q 1.691 | ultimos 20: 234.2
+paso    650,000 |   704 fps | eps 0.357 | perdida 0.0122 | Q 1.718 | ultimos 20: 225.5
+paso    660,000 |   704 fps | eps 0.347 | perdida 0.0121 | Q 1.716 | ultimos 20: 228.0
+paso    670,000 |   686 fps | eps 0.337 | perdida 0.0133 | Q 1.709 | ultimos 20: 292.5
+paso    680,000 |   683 fps | eps 0.327 | perdida 0.0131 | Q 1.728 | ultimos 20: 294.2
+paso    690,000 |   688 fps | eps 0.317 | perdida 0.0137 | Q 1.746 | ultimos 20: 351.5
+paso    700,000 |   686 fps | eps 0.307 | perdida 0.0142 | Q 1.772 | ultimos 20: 335.2
+paso    710,000 |   684 fps | eps 0.297 | perdida 0.0139 | Q 1.803 | ultimos 20: 309.5
+paso    720,000 |   683 fps | eps 0.287 | perdida 0.0143 | Q 1.830 | ultimos 20: 323.8
+paso    730,000 |   681 fps | eps 0.277 | perdida 0.0146 | Q 1.856 | ultimos 20: 391.8
+paso    740,000 |   688 fps | eps 0.267 | perdida 0.0143 | Q 1.861 | ultimos 20: 436.5
+paso    750,000 |   690 fps | eps 0.258 | perdida 0.0145 | Q 1.894 | ultimos 20: 462.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 750,000: media 360 +- 81 | max 560 | E[mejor de 5] 461
+paso    760,000 |   288 fps | eps 0.248 | perdida 0.0142 | Q 1.902 | ultimos 20: 421.0
+paso    770,000 |   707 fps | eps 0.238 | perdida 0.0137 | Q 1.942 | ultimos 20: 407.0
+paso    780,000 |   714 fps | eps 0.228 | perdida 0.0131 | Q 1.934 | ultimos 20: 455.2
+paso    790,000 |   702 fps | eps 0.218 | perdida 0.0134 | Q 1.964 | ultimos 20: 463.2
+paso    800,000 |   702 fps | eps 0.208 | perdida 0.0137 | Q 1.995 | ultimos 20: 472.5
+paso    810,000 |   697 fps | eps 0.198 | perdida 0.0145 | Q 1.991 | ultimos 20: 474.5
+paso    820,000 |   697 fps | eps 0.188 | perdida 0.0151 | Q 2.041 | ultimos 20: 457.8
+paso    830,000 |   690 fps | eps 0.178 | perdida 0.0154 | Q 2.075 | ultimos 20: 451.8
+paso    840,000 |   693 fps | eps 0.168 | perdida 0.0144 | Q 2.090 | ultimos 20: 453.8
+paso    850,000 |   673 fps | eps 0.159 | perdida 0.0148 | Q 2.141 | ultimos 20: 456.2
+paso    860,000 |   698 fps | eps 0.149 | perdida 0.0155 | Q 2.174 | ultimos 20: 480.0
+paso    870,000 |   694 fps | eps 0.139 | perdida 0.0158 | Q 2.195 | ultimos 20: 461.2
+paso    880,000 |   682 fps | eps 0.129 | perdida 0.0164 | Q 2.222 | ultimos 20: 463.5
+paso    890,000 |   683 fps | eps 0.119 | perdida 0.0168 | Q 2.257 | ultimos 20: 503.5
+paso    900,000 |   696 fps | eps 0.109 | perdida 0.0171 | Q 2.292 | ultimos 20: 469.5
+paso    910,000 |   696 fps | eps 0.099 | perdida 0.0171 | Q 2.288 | ultimos 20: 452.8
+paso    920,000 |   693 fps | eps 0.089 | perdida 0.0166 | Q 2.303 | ultimos 20: 493.2
+paso    930,000 |   703 fps | eps 0.079 | perdida 0.0165 | Q 2.322 | ultimos 20: 426.8
+paso    940,000 |   691 fps | eps 0.069 | perdida 0.0163 | Q 2.292 | ultimos 20: 418.0
+paso    950,000 |   691 fps | eps 0.060 | perdida 0.0166 | Q 2.316 | ultimos 20: 489.0
+paso    960,000 |   671 fps | eps 0.050 | perdida 0.0164 | Q 2.358 | ultimos 20: 455.0
+paso    970,000 |   689 fps | eps 0.040 | perdida 0.0165 | Q 2.423 | ultimos 20: 441.8
+paso    980,000 |   695 fps | eps 0.030 | perdida 0.0174 | Q 2.494 | ultimos 20: 451.2
+paso    990,000 |   691 fps | eps 0.020 | perdida 0.0187 | Q 2.534 | ultimos 20: 528.0
+paso  1,000,000 |   689 fps | eps 0.010 | perdida 0.0176 | Q 2.566 | ultimos 20: 541.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 1,000,000: media 528 +- 129 | max 775 | E[mejor de 5] 671  <- mejor
+paso  1,010,000 |   250 fps | eps 0.010 | perdida 0.0167 | Q 2.607 | ultimos 20: 584.0
+paso  1,020,000 |   715 fps | eps 0.010 | perdida 0.0163 | Q 2.624 | ultimos 20: 595.0
+paso  1,030,000 |   713 fps | eps 0.010 | perdida 0.0175 | Q 2.659 | ultimos 20: 594.8
+paso  1,040,000 |   709 fps | eps 0.010 | perdida 0.0181 | Q 2.682 | ultimos 20: 620.5
+paso  1,050,000 |   706 fps | eps 0.010 | perdida 0.0178 | Q 2.697 | ultimos 20: 546.8
+paso  1,060,000 |   707 fps | eps 0.010 | perdida 0.0188 | Q 2.721 | ultimos 20: 520.5
+paso  1,070,000 |   702 fps | eps 0.010 | perdida 0.0187 | Q 2.726 | ultimos 20: 582.8
+paso  1,080,000 |   695 fps | eps 0.010 | perdida 0.0191 | Q 2.744 | ultimos 20: 617.5
+paso  1,090,000 |   702 fps | eps 0.010 | perdida 0.0182 | Q 2.758 | ultimos 20: 647.0
+paso  1,100,000 |   764 fps | eps 0.010 | perdida 0.0181 | Q 2.784 | ultimos 20: 645.8
+paso  1,110,000 |   763 fps | eps 0.010 | perdida 0.0180 | Q 2.790 | ultimos 20: 589.5
+paso  1,120,000 |   768 fps | eps 0.010 | perdida 0.0185 | Q 2.801 | ultimos 20: 645.0
+paso  1,130,000 |   767 fps | eps 0.010 | perdida 0.0187 | Q 2.788 | ultimos 20: 687.5
+paso  1,140,000 |   769 fps | eps 0.010 | perdida 0.0192 | Q 2.728 | ultimos 20: 715.0
+paso  1,150,000 |   745 fps | eps 0.010 | perdida 0.0192 | Q 2.749 | ultimos 20: 654.5
+paso  1,160,000 |   756 fps | eps 0.010 | perdida 0.0191 | Q 2.767 | ultimos 20: 651.2
+paso  1,170,000 |   769 fps | eps 0.010 | perdida 0.0188 | Q 2.785 | ultimos 20: 700.8
+paso  1,180,000 |   766 fps | eps 0.010 | perdida 0.0175 | Q 2.773 | ultimos 20: 729.0
+paso  1,190,000 |   755 fps | eps 0.010 | perdida 0.0183 | Q 2.801 | ultimos 20: 641.0
+paso  1,200,000 |   719 fps | eps 0.010 | perdida 0.0180 | Q 2.844 | ultimos 20: 673.5
+paso  1,210,000 |   762 fps | eps 0.010 | perdida 0.0180 | Q 2.855 | ultimos 20: 692.5
+paso  1,220,000 |   765 fps | eps 0.010 | perdida 0.0182 | Q 2.869 | ultimos 20: 636.2
+paso  1,230,000 |   761 fps | eps 0.010 | perdida 0.0184 | Q 2.917 | ultimos 20: 655.0
+paso  1,240,000 |   763 fps | eps 0.010 | perdida 0.0188 | Q 2.933 | ultimos 20: 662.5
+paso  1,250,000 |   767 fps | eps 0.010 | perdida 0.0190 | Q 2.977 | ultimos 20: 669.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 1,250,000: media 782 +- 283 | max 1275 | E[mejor de 5] 1131  <- mejor
+paso  1,260,000 |   249 fps | eps 0.010 | perdida 0.0188 | Q 2.986 | ultimos 20: 734.2
+paso  1,270,000 |   794 fps | eps 0.010 | perdida 0.0186 | Q 3.007 | ultimos 20: 633.2
+paso  1,280,000 |   789 fps | eps 0.010 | perdida 0.0195 | Q 3.024 | ultimos 20: 641.0
+paso  1,290,000 |   781 fps | eps 0.010 | perdida 0.0195 | Q 3.042 | ultimos 20: 631.0
+paso  1,300,000 |   778 fps | eps 0.010 | perdida 0.0183 | Q 3.098 | ultimos 20: 598.0
+paso  1,310,000 |   775 fps | eps 0.010 | perdida 0.0187 | Q 3.123 | ultimos 20: 628.2
+paso  1,320,000 |   771 fps | eps 0.010 | perdida 0.0191 | Q 3.128 | ultimos 20: 602.8
+paso  1,330,000 |   772 fps | eps 0.010 | perdida 0.0192 | Q 3.175 | ultimos 20: 652.2
+paso  1,340,000 |   771 fps | eps 0.010 | perdida 0.0195 | Q 3.208 | ultimos 20: 676.5
+paso  1,350,000 |   761 fps | eps 0.010 | perdida 0.0184 | Q 3.234 | ultimos 20: 739.8
+paso  1,360,000 |   737 fps | eps 0.010 | perdida 0.0195 | Q 3.204 | ultimos 20: 771.2
+paso  1,370,000 |   763 fps | eps 0.010 | perdida 0.0194 | Q 3.189 | ultimos 20: 783.5
+paso  1,380,000 |   765 fps | eps 0.010 | perdida 0.0184 | Q 3.203 | ultimos 20: 738.8
+paso  1,390,000 |   764 fps | eps 0.010 | perdida 0.0194 | Q 3.219 | ultimos 20: 740.2
+paso  1,400,000 |   766 fps | eps 0.010 | perdida 0.0183 | Q 3.266 | ultimos 20: 694.0
+paso  1,410,000 |   767 fps | eps 0.010 | perdida 0.0185 | Q 3.290 | ultimos 20: 608.2
+paso  1,420,000 |   763 fps | eps 0.010 | perdida 0.0186 | Q 3.324 | ultimos 20: 641.5
+paso  1,430,000 |   764 fps | eps 0.010 | perdida 0.0187 | Q 3.355 | ultimos 20: 688.5
+paso  1,440,000 |   764 fps | eps 0.010 | perdida 0.0189 | Q 3.365 | ultimos 20: 709.2
+paso  1,450,000 |   765 fps | eps 0.010 | perdida 0.0187 | Q 3.405 | ultimos 20: 620.8
+paso  1,460,000 |   766 fps | eps 0.010 | perdida 0.0187 | Q 3.424 | ultimos 20: 603.8
+paso  1,470,000 |   763 fps | eps 0.010 | perdida 0.0192 | Q 3.418 | ultimos 20: 647.0
+paso  1,480,000 |   760 fps | eps 0.010 | perdida 0.0197 | Q 3.436 | ultimos 20: 642.8
+paso  1,490,000 |   730 fps | eps 0.010 | perdida 0.0192 | Q 3.416 | ultimos 20: 617.5
+paso  1,500,000 |   762 fps | eps 0.010 | perdida 0.0192 | Q 3.487 | ultimos 20: 625.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 1,500,000: media 722 +- 241 | max 1285 | E[mejor de 5] 1038
+paso  1,510,000 |   277 fps | eps 0.010 | perdida 0.0199 | Q 3.500 | ultimos 20: 659.5
+paso  1,520,000 |   711 fps | eps 0.010 | perdida 0.0195 | Q 3.506 | ultimos 20: 851.2
+paso  1,530,000 |   708 fps | eps 0.010 | perdida 0.0193 | Q 3.510 | ultimos 20: 787.0
+paso  1,540,000 |   715 fps | eps 0.010 | perdida 0.0184 | Q 3.535 | ultimos 20: 716.2
+paso  1,550,000 |   716 fps | eps 0.010 | perdida 0.0182 | Q 3.513 | ultimos 20: 707.8
+paso  1,560,000 |   706 fps | eps 0.010 | perdida 0.0179 | Q 3.515 | ultimos 20: 692.2
+paso  1,570,000 |   699 fps | eps 0.010 | perdida 0.0183 | Q 3.533 | ultimos 20: 756.0
+paso  1,580,000 |   697 fps | eps 0.010 | perdida 0.0185 | Q 3.549 | ultimos 20: 898.2
+paso  1,590,000 |   706 fps | eps 0.010 | perdida 0.0192 | Q 3.558 | ultimos 20: 842.8
+paso  1,600,000 |   705 fps | eps 0.010 | perdida 0.0187 | Q 3.550 | ultimos 20: 750.8
+paso  1,610,000 |   693 fps | eps 0.010 | perdida 0.0184 | Q 3.525 | ultimos 20: 788.0
+paso  1,620,000 |   695 fps | eps 0.010 | perdida 0.0186 | Q 3.542 | ultimos 20: 794.8
+paso  1,630,000 |   697 fps | eps 0.010 | perdida 0.0186 | Q 3.556 | ultimos 20: 721.2
+paso  1,640,000 |   691 fps | eps 0.010 | perdida 0.0183 | Q 3.576 | ultimos 20: 737.2
+paso  1,650,000 |   687 fps | eps 0.010 | perdida 0.0188 | Q 3.606 | ultimos 20: 730.0
+paso  1,660,000 |   686 fps | eps 0.010 | perdida 0.0190 | Q 3.652 | ultimos 20: 728.2
+paso  1,670,000 |   682 fps | eps 0.010 | perdida 0.0178 | Q 3.667 | ultimos 20: 670.2
+paso  1,680,000 |   689 fps | eps 0.010 | perdida 0.0176 | Q 3.659 | ultimos 20: 659.0
+paso  1,690,000 |   690 fps | eps 0.010 | perdida 0.0176 | Q 3.678 | ultimos 20: 709.0
+paso  1,700,000 |   686 fps | eps 0.010 | perdida 0.0175 | Q 3.705 | ultimos 20: 657.2
+paso  1,710,000 |   689 fps | eps 0.010 | perdida 0.0177 | Q 3.692 | ultimos 20: 577.5
+paso  1,720,000 |   691 fps | eps 0.010 | perdida 0.0172 | Q 3.708 | ultimos 20: 723.5
+paso  1,730,000 |   690 fps | eps 0.010 | perdida 0.0174 | Q 3.760 | ultimos 20: 725.0
+paso  1,740,000 |   693 fps | eps 0.010 | perdida 0.0177 | Q 3.792 | ultimos 20: 625.0
+paso  1,750,000 |   686 fps | eps 0.010 | perdida 0.0182 | Q 3.792 | ultimos 20: 726.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 1,750,000: media 715 +- 268 | max 1360 | E[mejor de 5] 1057
+paso  1,760,000 |   244 fps | eps 0.010 | perdida 0.0179 | Q 3.761 | ultimos 20: 756.0
+paso  1,770,000 |   719 fps | eps 0.010 | perdida 0.0178 | Q 3.766 | ultimos 20: 672.2
+paso  1,780,000 |   713 fps | eps 0.010 | perdida 0.0179 | Q 3.757 | ultimos 20: 740.8
+paso  1,790,000 |   718 fps | eps 0.010 | perdida 0.0178 | Q 3.760 | ultimos 20: 725.8
+paso  1,800,000 |   697 fps | eps 0.010 | perdida 0.0176 | Q 3.735 | ultimos 20: 647.8
+paso  1,810,000 |   708 fps | eps 0.010 | perdida 0.0175 | Q 3.731 | ultimos 20: 678.0
+paso  1,820,000 |   700 fps | eps 0.010 | perdida 0.0176 | Q 3.750 | ultimos 20: 691.0
+paso  1,830,000 |   707 fps | eps 0.010 | perdida 0.0185 | Q 3.772 | ultimos 20: 681.5
+paso  1,840,000 |   706 fps | eps 0.010 | perdida 0.0193 | Q 3.766 | ultimos 20: 713.2
+paso  1,850,000 |   709 fps | eps 0.010 | perdida 0.0185 | Q 3.754 | ultimos 20: 711.5
+paso  1,860,000 |   746 fps | eps 0.010 | perdida 0.0181 | Q 3.782 | ultimos 20: 729.5
+paso  1,870,000 |   769 fps | eps 0.010 | perdida 0.0189 | Q 3.773 | ultimos 20: 770.2
+paso  1,880,000 |   767 fps | eps 0.010 | perdida 0.0182 | Q 3.807 | ultimos 20: 749.8
+paso  1,890,000 |   764 fps | eps 0.010 | perdida 0.0192 | Q 3.848 | ultimos 20: 722.0
+paso  1,900,000 |   758 fps | eps 0.010 | perdida 0.0185 | Q 3.879 | ultimos 20: 745.8
+paso  1,910,000 |   602 fps | eps 0.010 | perdida 0.0197 | Q 3.909 | ultimos 20: 777.0
+paso  1,920,000 |   751 fps | eps 0.010 | perdida 0.0189 | Q 3.964 | ultimos 20: 755.8
+paso  1,930,000 |   620 fps | eps 0.010 | perdida 0.0192 | Q 3.951 | ultimos 20: 737.5
+paso  1,940,000 |   669 fps | eps 0.010 | perdida 0.0188 | Q 3.949 | ultimos 20: 725.5
+paso  1,950,000 |   630 fps | eps 0.010 | perdida 0.0183 | Q 3.929 | ultimos 20: 764.8
+paso  1,960,000 |   725 fps | eps 0.010 | perdida 0.0191 | Q 3.946 | ultimos 20: 772.2
+paso  1,970,000 |   726 fps | eps 0.010 | perdida 0.0199 | Q 3.961 | ultimos 20: 747.5
+paso  1,980,000 |   780 fps | eps 0.010 | perdida 0.0195 | Q 3.994 | ultimos 20: 723.5
+paso  1,990,000 |   764 fps | eps 0.010 | perdida 0.0193 | Q 4.038 | ultimos 20: 645.2
+paso  2,000,000 |   766 fps | eps 0.010 | perdida 0.0187 | Q 4.076 | ultimos 20: 702.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 2,000,000: media 712 +- 317 | max 1730 | E[mejor de 5] 1109
+paso  2,010,000 |   261 fps | eps 0.010 | perdida 0.0187 | Q 4.088 | ultimos 20: 685.0
+paso  2,020,000 |   775 fps | eps 0.010 | perdida 0.0198 | Q 4.078 | ultimos 20: 714.2
+paso  2,030,000 |   786 fps | eps 0.010 | perdida 0.0198 | Q 4.096 | ultimos 20: 775.5
+paso  2,040,000 |   782 fps | eps 0.010 | perdida 0.0196 | Q 4.118 | ultimos 20: 711.8
+paso  2,050,000 |   785 fps | eps 0.010 | perdida 0.0196 | Q 4.145 | ultimos 20: 715.8
+paso  2,060,000 |   778 fps | eps 0.010 | perdida 0.0198 | Q 4.188 | ultimos 20: 719.5
+paso  2,070,000 |   779 fps | eps 0.010 | perdida 0.0191 | Q 4.173 | ultimos 20: 702.8
+paso  2,080,000 |   780 fps | eps 0.010 | perdida 0.0196 | Q 4.187 | ultimos 20: 747.2
+paso  2,090,000 |   771 fps | eps 0.010 | perdida 0.0189 | Q 4.196 | ultimos 20: 750.0
+paso  2,100,000 |   775 fps | eps 0.010 | perdida 0.0190 | Q 4.206 | ultimos 20: 777.8
+paso  2,110,000 |   771 fps | eps 0.010 | perdida 0.0192 | Q 4.212 | ultimos 20: 771.2
+paso  2,120,000 |   778 fps | eps 0.010 | perdida 0.0193 | Q 4.215 | ultimos 20: 674.5
+paso  2,130,000 |   770 fps | eps 0.010 | perdida 0.0186 | Q 4.203 | ultimos 20: 639.8
+paso  2,140,000 |   771 fps | eps 0.010 | perdida 0.0179 | Q 4.197 | ultimos 20: 691.8
+paso  2,150,000 |   772 fps | eps 0.010 | perdida 0.0189 | Q 4.206 | ultimos 20: 756.0
+paso  2,160,000 |   766 fps | eps 0.010 | perdida 0.0194 | Q 4.174 | ultimos 20: 726.8
+paso  2,170,000 |   768 fps | eps 0.010 | perdida 0.0192 | Q 4.207 | ultimos 20: 696.0
+paso  2,180,000 |   768 fps | eps 0.010 | perdida 0.0195 | Q 4.218 | ultimos 20: 655.2
+paso  2,190,000 |   769 fps | eps 0.010 | perdida 0.0199 | Q 4.223 | ultimos 20: 656.2
+paso  2,200,000 |   772 fps | eps 0.010 | perdida 0.0195 | Q 4.223 | ultimos 20: 718.8
+paso  2,210,000 |   773 fps | eps 0.010 | perdida 0.0198 | Q 4.203 | ultimos 20: 847.0
+paso  2,220,000 |   774 fps | eps 0.010 | perdida 0.0192 | Q 4.165 | ultimos 20: 820.5
+paso  2,230,000 |   774 fps | eps 0.010 | perdida 0.0196 | Q 4.157 | ultimos 20: 704.2
+paso  2,240,000 |   770 fps | eps 0.010 | perdida 0.0193 | Q 4.143 | ultimos 20: 726.8
+paso  2,250,000 |   772 fps | eps 0.010 | perdida 0.0193 | Q 4.159 | ultimos 20: 802.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 2,250,000: media 798 +- 317 | max 1430 | E[mejor de 5] 1199  <- mejor
+paso  2,260,000 |   291 fps | eps 0.010 | perdida 0.0192 | Q 4.184 | ultimos 20: 825.8
+paso  2,270,000 |   790 fps | eps 0.010 | perdida 0.0191 | Q 4.233 | ultimos 20: 757.2
+paso  2,280,000 |   795 fps | eps 0.010 | perdida 0.0203 | Q 4.247 | ultimos 20: 768.0
+paso  2,290,000 |   787 fps | eps 0.010 | perdida 0.0209 | Q 4.247 | ultimos 20: 789.5
+paso  2,300,000 |   786 fps | eps 0.010 | perdida 0.0198 | Q 4.246 | ultimos 20: 743.5
+paso  2,310,000 |   782 fps | eps 0.010 | perdida 0.0202 | Q 4.250 | ultimos 20: 727.8
+paso  2,320,000 |   780 fps | eps 0.010 | perdida 0.0198 | Q 4.259 | ultimos 20: 796.0
+paso  2,330,000 |   777 fps | eps 0.010 | perdida 0.0203 | Q 4.266 | ultimos 20: 815.5
+paso  2,340,000 |   780 fps | eps 0.010 | perdida 0.0197 | Q 4.322 | ultimos 20: 716.0
+paso  2,350,000 |   777 fps | eps 0.010 | perdida 0.0197 | Q 4.321 | ultimos 20: 727.8
+paso  2,360,000 |   776 fps | eps 0.010 | perdida 0.0200 | Q 4.366 | ultimos 20: 813.0
+paso  2,370,000 |   775 fps | eps 0.010 | perdida 0.0204 | Q 4.396 | ultimos 20: 778.2
+paso  2,380,000 |   777 fps | eps 0.010 | perdida 0.0207 | Q 4.425 | ultimos 20: 791.5
+paso  2,390,000 |   779 fps | eps 0.010 | perdida 0.0202 | Q 4.396 | ultimos 20: 742.0
+paso  2,400,000 |   706 fps | eps 0.010 | perdida 0.0208 | Q 4.391 | ultimos 20: 617.5
+paso  2,410,000 |   716 fps | eps 0.010 | perdida 0.0212 | Q 4.366 | ultimos 20: 660.5
+paso  2,420,000 |   712 fps | eps 0.010 | perdida 0.0207 | Q 4.392 | ultimos 20: 762.0
+paso  2,430,000 |   715 fps | eps 0.010 | perdida 0.0209 | Q 4.395 | ultimos 20: 652.0
+paso  2,440,000 |   714 fps | eps 0.010 | perdida 0.0210 | Q 4.372 | ultimos 20: 616.2
+paso  2,450,000 |   692 fps | eps 0.010 | perdida 0.0205 | Q 4.365 | ultimos 20: 660.0
+paso  2,460,000 |   706 fps | eps 0.010 | perdida 0.0204 | Q 4.396 | ultimos 20: 679.2
+paso  2,470,000 |   706 fps | eps 0.010 | perdida 0.0205 | Q 4.383 | ultimos 20: 681.5
+paso  2,480,000 |   691 fps | eps 0.010 | perdida 0.0206 | Q 4.417 | ultimos 20: 708.2
+paso  2,490,000 |   703 fps | eps 0.010 | perdida 0.0204 | Q 4.384 | ultimos 20: 704.5
+paso  2,500,000 |   710 fps | eps 0.010 | perdida 0.0202 | Q 4.352 | ultimos 20: 730.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 2,500,000: media 921 +- 514 | max 2460 | E[mejor de 5] 1592  <- mejor
+paso  2,510,000 |   183 fps | eps 0.010 | perdida 0.0205 | Q 4.302 | ultimos 20: 873.2
+paso  2,520,000 |   737 fps | eps 0.010 | perdida 0.0194 | Q 4.325 | ultimos 20: 970.8
+paso  2,530,000 |   727 fps | eps 0.010 | perdida 0.0198 | Q 4.357 | ultimos 20: 891.0
+paso  2,540,000 |   716 fps | eps 0.010 | perdida 0.0202 | Q 4.390 | ultimos 20: 731.8
+paso  2,550,000 |   719 fps | eps 0.010 | perdida 0.0207 | Q 4.382 | ultimos 20: 745.5
+paso  2,560,000 |   722 fps | eps 0.010 | perdida 0.0202 | Q 4.372 | ultimos 20: 818.8
+paso  2,570,000 |   716 fps | eps 0.010 | perdida 0.0204 | Q 4.379 | ultimos 20: 869.0
+paso  2,580,000 |   687 fps | eps 0.010 | perdida 0.0190 | Q 4.392 | ultimos 20: 737.8
+paso  2,590,000 |   664 fps | eps 0.010 | perdida 0.0200 | Q 4.389 | ultimos 20: 778.5
+paso  2,600,000 |   663 fps | eps 0.010 | perdida 0.0199 | Q 4.372 | ultimos 20: 854.8
+paso  2,610,000 |   663 fps | eps 0.010 | perdida 0.0199 | Q 4.349 | ultimos 20: 823.5
+paso  2,620,000 |   661 fps | eps 0.010 | perdida 0.0205 | Q 4.360 | ultimos 20: 743.5
+paso  2,630,000 |   678 fps | eps 0.010 | perdida 0.0197 | Q 4.355 | ultimos 20: 699.0
+paso  2,640,000 |   707 fps | eps 0.010 | perdida 0.0202 | Q 4.388 | ultimos 20: 754.0
+paso  2,650,000 |   711 fps | eps 0.010 | perdida 0.0199 | Q 4.403 | ultimos 20: 765.8
+paso  2,660,000 |   707 fps | eps 0.010 | perdida 0.0198 | Q 4.418 | ultimos 20: 817.8
+paso  2,670,000 |   702 fps | eps 0.010 | perdida 0.0196 | Q 4.436 | ultimos 20: 835.8
+paso  2,680,000 |   704 fps | eps 0.010 | perdida 0.0205 | Q 4.452 | ultimos 20: 718.5
+paso  2,690,000 |   711 fps | eps 0.010 | perdida 0.0210 | Q 4.426 | ultimos 20: 598.5
+paso  2,700,000 |   710 fps | eps 0.010 | perdida 0.0190 | Q 4.409 | ultimos 20: 675.5
+paso  2,710,000 |   708 fps | eps 0.010 | perdida 0.0198 | Q 4.402 | ultimos 20: 635.0
+paso  2,720,000 |   715 fps | eps 0.010 | perdida 0.0195 | Q 4.412 | ultimos 20: 581.8
+paso  2,730,000 |   711 fps | eps 0.010 | perdida 0.0200 | Q 4.417 | ultimos 20: 719.5
+paso  2,740,000 |   711 fps | eps 0.010 | perdida 0.0195 | Q 4.455 | ultimos 20: 798.8
+paso  2,750,000 |   713 fps | eps 0.010 | perdida 0.0189 | Q 4.416 | ultimos 20: 828.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 2,750,000: media 751 +- 314 | max 1415 | E[mejor de 5] 1148
+paso  2,760,000 |   251 fps | eps 0.010 | perdida 0.0189 | Q 4.391 | ultimos 20: 840.0
+paso  2,770,000 |   711 fps | eps 0.010 | perdida 0.0198 | Q 4.382 | ultimos 20: 792.0
+paso  2,780,000 |   724 fps | eps 0.010 | perdida 0.0195 | Q 4.405 | ultimos 20: 821.2
+paso  2,790,000 |   721 fps | eps 0.010 | perdida 0.0190 | Q 4.402 | ultimos 20: 859.8
+paso  2,800,000 |   720 fps | eps 0.010 | perdida 0.0193 | Q 4.418 | ultimos 20: 825.0
+paso  2,810,000 |   717 fps | eps 0.010 | perdida 0.0182 | Q 4.387 | ultimos 20: 845.5
+paso  2,820,000 |   714 fps | eps 0.010 | perdida 0.0192 | Q 4.400 | ultimos 20: 879.2
+paso  2,830,000 |   714 fps | eps 0.010 | perdida 0.0200 | Q 4.412 | ultimos 20: 848.2
+paso  2,840,000 |   713 fps | eps 0.010 | perdida 0.0204 | Q 4.412 | ultimos 20: 833.2
+paso  2,850,000 |   714 fps | eps 0.010 | perdida 0.0195 | Q 4.432 | ultimos 20: 806.0
+paso  2,860,000 |   717 fps | eps 0.010 | perdida 0.0201 | Q 4.428 | ultimos 20: 794.5
+paso  2,870,000 |   712 fps | eps 0.010 | perdida 0.0203 | Q 4.420 | ultimos 20: 832.5
+paso  2,880,000 |   716 fps | eps 0.010 | perdida 0.0200 | Q 4.405 | ultimos 20: 841.0
+paso  2,890,000 |   714 fps | eps 0.010 | perdida 0.0192 | Q 4.391 | ultimos 20: 791.8
+paso  2,900,000 |   711 fps | eps 0.010 | perdida 0.0197 | Q 4.393 | ultimos 20: 904.0
+paso  2,910,000 |   711 fps | eps 0.010 | perdida 0.0193 | Q 4.425 | ultimos 20: 888.5
+paso  2,920,000 |   709 fps | eps 0.010 | perdida 0.0205 | Q 4.440 | ultimos 20: 995.2
+paso  2,930,000 |   709 fps | eps 0.010 | perdida 0.0201 | Q 4.438 | ultimos 20: 896.0
+paso  2,940,000 |   701 fps | eps 0.010 | perdida 0.0194 | Q 4.434 | ultimos 20: 680.0
+paso  2,950,000 |   706 fps | eps 0.010 | perdida 0.0198 | Q 4.451 | ultimos 20: 711.2
+paso  2,960,000 |   714 fps | eps 0.010 | perdida 0.0196 | Q 4.451 | ultimos 20: 862.2
+paso  2,970,000 |   708 fps | eps 0.010 | perdida 0.0193 | Q 4.471 | ultimos 20: 951.0
+paso  2,980,000 |   706 fps | eps 0.010 | perdida 0.0197 | Q 4.497 | ultimos 20: 1016.8
+paso  2,990,000 |   702 fps | eps 0.010 | perdida 0.0204 | Q 4.517 | ultimos 20: 965.2
+paso  3,000,000 |   709 fps | eps 0.010 | perdida 0.0204 | Q 4.535 | ultimos 20: 893.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 3,000,000: media 903 +- 366 | max 1945 | E[mejor de 5] 1356
+paso  3,010,000 |   243 fps | eps 0.010 | perdida 0.0208 | Q 4.508 | ultimos 20: 911.8
+paso  3,020,000 |   728 fps | eps 0.010 | perdida 0.0202 | Q 4.518 | ultimos 20: 930.0
+paso  3,030,000 |   718 fps | eps 0.010 | perdida 0.0200 | Q 4.503 | ultimos 20: 852.8
+paso  3,040,000 |   724 fps | eps 0.010 | perdida 0.0208 | Q 4.523 | ultimos 20: 906.2
+paso  3,050,000 |   722 fps | eps 0.010 | perdida 0.0207 | Q 4.542 | ultimos 20: 968.5
+paso  3,060,000 |   718 fps | eps 0.010 | perdida 0.0222 | Q 4.554 | ultimos 20: 890.8
+paso  3,070,000 |   710 fps | eps 0.010 | perdida 0.0224 | Q 4.572 | ultimos 20: 768.5
+paso  3,080,000 |   714 fps | eps 0.010 | perdida 0.0211 | Q 4.564 | ultimos 20: 713.0
+paso  3,090,000 |   715 fps | eps 0.010 | perdida 0.0213 | Q 4.538 | ultimos 20: 773.5
+paso  3,100,000 |   720 fps | eps 0.010 | perdida 0.0221 | Q 4.555 | ultimos 20: 867.8
+paso  3,110,000 |   712 fps | eps 0.010 | perdida 0.0227 | Q 4.560 | ultimos 20: 794.0
+paso  3,120,000 |   716 fps | eps 0.010 | perdida 0.0214 | Q 4.564 | ultimos 20: 802.2
+paso  3,130,000 |   715 fps | eps 0.010 | perdida 0.0221 | Q 4.582 | ultimos 20: 838.8
+paso  3,140,000 |   707 fps | eps 0.010 | perdida 0.0210 | Q 4.563 | ultimos 20: 945.5
+paso  3,150,000 |   699 fps | eps 0.010 | perdida 0.0212 | Q 4.586 | ultimos 20: 946.8
+paso  3,160,000 |   710 fps | eps 0.010 | perdida 0.0209 | Q 4.598 | ultimos 20: 957.2
+paso  3,170,000 |   707 fps | eps 0.010 | perdida 0.0224 | Q 4.628 | ultimos 20: 1020.5
+paso  3,180,000 |   709 fps | eps 0.010 | perdida 0.0229 | Q 4.660 | ultimos 20: 1001.0
+paso  3,190,000 |   703 fps | eps 0.010 | perdida 0.0226 | Q 4.665 | ultimos 20: 839.0
+paso  3,200,000 |   710 fps | eps 0.010 | perdida 0.0223 | Q 4.666 | ultimos 20: 843.5
+paso  3,210,000 |   712 fps | eps 0.010 | perdida 0.0221 | Q 4.676 | ultimos 20: 916.8
+paso  3,220,000 |   712 fps | eps 0.010 | perdida 0.0215 | Q 4.682 | ultimos 20: 838.0
+paso  3,230,000 |   704 fps | eps 0.010 | perdida 0.0222 | Q 4.651 | ultimos 20: 790.2
+paso  3,240,000 |   712 fps | eps 0.010 | perdida 0.0223 | Q 4.653 | ultimos 20: 795.2
+paso  3,250,000 |   703 fps | eps 0.010 | perdida 0.0226 | Q 4.641 | ultimos 20: 865.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 3,250,000: media 892 +- 353 | max 1395 | E[mejor de 5] 1300
+paso  3,260,000 |   218 fps | eps 0.010 | perdida 0.0214 | Q 4.641 | ultimos 20: 940.2
+paso  3,270,000 |   735 fps | eps 0.010 | perdida 0.0212 | Q 4.678 | ultimos 20: 1008.2
+paso  3,280,000 |   729 fps | eps 0.010 | perdida 0.0230 | Q 4.719 | ultimos 20: 920.5
+paso  3,290,000 |   727 fps | eps 0.010 | perdida 0.0231 | Q 4.748 | ultimos 20: 856.5
+paso  3,300,000 |   720 fps | eps 0.010 | perdida 0.0234 | Q 4.758 | ultimos 20: 923.8
+paso  3,310,000 |   714 fps | eps 0.010 | perdida 0.0237 | Q 4.763 | ultimos 20: 974.5
+paso  3,320,000 |   718 fps | eps 0.010 | perdida 0.0229 | Q 4.755 | ultimos 20: 925.2
+paso  3,330,000 |   717 fps | eps 0.010 | perdida 0.0232 | Q 4.751 | ultimos 20: 787.5
+paso  3,340,000 |   717 fps | eps 0.010 | perdida 0.0230 | Q 4.788 | ultimos 20: 814.5
+paso  3,350,000 |   704 fps | eps 0.010 | perdida 0.0223 | Q 4.784 | ultimos 20: 827.8
+paso  3,360,000 |   709 fps | eps 0.010 | perdida 0.0224 | Q 4.781 | ultimos 20: 959.0
+paso  3,370,000 |   687 fps | eps 0.010 | perdida 0.0234 | Q 4.783 | ultimos 20: 922.2
+paso  3,380,000 |   698 fps | eps 0.010 | perdida 0.0223 | Q 4.749 | ultimos 20: 879.0
+paso  3,390,000 |   700 fps | eps 0.010 | perdida 0.0221 | Q 4.742 | ultimos 20: 928.2
+paso  3,400,000 |   711 fps | eps 0.010 | perdida 0.0220 | Q 4.755 | ultimos 20: 846.0
+paso  3,410,000 |   709 fps | eps 0.010 | perdida 0.0217 | Q 4.760 | ultimos 20: 813.5
+paso  3,420,000 |   710 fps | eps 0.010 | perdida 0.0222 | Q 4.783 | ultimos 20: 834.2
+paso  3,430,000 |   713 fps | eps 0.010 | perdida 0.0220 | Q 4.787 | ultimos 20: 1032.2
+paso  3,440,000 |   703 fps | eps 0.010 | perdida 0.0220 | Q 4.798 | ultimos 20: 1026.5
+paso  3,450,000 |   713 fps | eps 0.010 | perdida 0.0218 | Q 4.796 | ultimos 20: 953.5
+paso  3,460,000 |   702 fps | eps 0.010 | perdida 0.0236 | Q 4.829 | ultimos 20: 930.2
+paso  3,470,000 |   707 fps | eps 0.010 | perdida 0.0232 | Q 4.837 | ultimos 20: 960.8
+paso  3,480,000 |   713 fps | eps 0.010 | perdida 0.0238 | Q 4.857 | ultimos 20: 976.2
+paso  3,490,000 |   714 fps | eps 0.010 | perdida 0.0228 | Q 4.848 | ultimos 20: 893.0
+paso  3,500,000 |   707 fps | eps 0.010 | perdida 0.0226 | Q 4.862 | ultimos 20: 839.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 3,500,000: media 853 +- 355 | max 1575 | E[mejor de 5] 1301
+paso  3,510,000 |   236 fps | eps 0.010 | perdida 0.0226 | Q 4.855 | ultimos 20: 900.0
+paso  3,520,000 |   730 fps | eps 0.010 | perdida 0.0231 | Q 4.887 | ultimos 20: 897.8
+paso  3,530,000 |   726 fps | eps 0.010 | perdida 0.0230 | Q 4.896 | ultimos 20: 945.0
+paso  3,540,000 |   722 fps | eps 0.010 | perdida 0.0216 | Q 4.900 | ultimos 20: 863.2
+paso  3,550,000 |   711 fps | eps 0.010 | perdida 0.0220 | Q 4.924 | ultimos 20: 750.5
+paso  3,560,000 |   710 fps | eps 0.010 | perdida 0.0234 | Q 4.947 | ultimos 20: 749.8
+paso  3,570,000 |   707 fps | eps 0.010 | perdida 0.0233 | Q 4.964 | ultimos 20: 815.2
+paso  3,580,000 |   715 fps | eps 0.010 | perdida 0.0235 | Q 4.965 | ultimos 20: 997.2
+paso  3,590,000 |   715 fps | eps 0.010 | perdida 0.0222 | Q 5.026 | ultimos 20: 1056.0
+paso  3,600,000 |   710 fps | eps 0.010 | perdida 0.0228 | Q 5.037 | ultimos 20: 992.0
+paso  3,610,000 |   706 fps | eps 0.010 | perdida 0.0221 | Q 5.009 | ultimos 20: 1044.2
+paso  3,620,000 |   714 fps | eps 0.010 | perdida 0.0226 | Q 5.015 | ultimos 20: 1114.0
+paso  3,630,000 |   713 fps | eps 0.010 | perdida 0.0226 | Q 5.059 | ultimos 20: 1044.5
+paso  3,640,000 |   711 fps | eps 0.010 | perdida 0.0228 | Q 5.066 | ultimos 20: 1015.2
+paso  3,650,000 |   716 fps | eps 0.010 | perdida 0.0216 | Q 5.086 | ultimos 20: 986.0
+paso  3,660,000 |   709 fps | eps 0.010 | perdida 0.0224 | Q 5.058 | ultimos 20: 1026.0
+paso  3,670,000 |   709 fps | eps 0.010 | perdida 0.0230 | Q 5.068 | ultimos 20: 938.8
+paso  3,680,000 |   704 fps | eps 0.010 | perdida 0.0220 | Q 5.054 | ultimos 20: 903.5
+paso  3,690,000 |   703 fps | eps 0.010 | perdida 0.0227 | Q 5.080 | ultimos 20: 903.8
+paso  3,700,000 |   711 fps | eps 0.010 | perdida 0.0232 | Q 5.084 | ultimos 20: 1107.5
+paso  3,710,000 |   709 fps | eps 0.010 | perdida 0.0235 | Q 5.101 | ultimos 20: 1051.2
+paso  3,720,000 |   704 fps | eps 0.010 | perdida 0.0227 | Q 5.107 | ultimos 20: 904.2
+paso  3,730,000 |   706 fps | eps 0.010 | perdida 0.0227 | Q 5.133 | ultimos 20: 976.2
+paso  3,740,000 |   703 fps | eps 0.010 | perdida 0.0238 | Q 5.111 | ultimos 20: 1008.0
+paso  3,750,000 |   709 fps | eps 0.010 | perdida 0.0231 | Q 5.102 | ultimos 20: 993.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 3,750,000: media 1103 +- 400 | max 1950 | E[mejor de 5] 1544
+paso  3,760,000 |   233 fps | eps 0.010 | perdida 0.0229 | Q 5.121 | ultimos 20: 933.0
+paso  3,770,000 |   715 fps | eps 0.010 | perdida 0.0230 | Q 5.125 | ultimos 20: 937.2
+paso  3,780,000 |   723 fps | eps 0.010 | perdida 0.0228 | Q 5.096 | ultimos 20: 935.0
+paso  3,790,000 |   717 fps | eps 0.010 | perdida 0.0220 | Q 5.108 | ultimos 20: 908.0
+paso  3,800,000 |   717 fps | eps 0.010 | perdida 0.0230 | Q 5.135 | ultimos 20: 956.5
+paso  3,810,000 |   703 fps | eps 0.010 | perdida 0.0233 | Q 5.178 | ultimos 20: 888.5
+paso  3,820,000 |   708 fps | eps 0.010 | perdida 0.0232 | Q 5.168 | ultimos 20: 874.5
+paso  3,830,000 |   709 fps | eps 0.010 | perdida 0.0232 | Q 5.180 | ultimos 20: 870.2
+paso  3,840,000 |   702 fps | eps 0.010 | perdida 0.0244 | Q 5.159 | ultimos 20: 932.5
+paso  3,850,000 |   706 fps | eps 0.010 | perdida 0.0240 | Q 5.180 | ultimos 20: 1029.2
+paso  3,860,000 |   704 fps | eps 0.010 | perdida 0.0227 | Q 5.209 | ultimos 20: 1022.0
+paso  3,870,000 |   705 fps | eps 0.010 | perdida 0.0231 | Q 5.194 | ultimos 20: 885.8
+paso  3,880,000 |   708 fps | eps 0.010 | perdida 0.0239 | Q 5.186 | ultimos 20: 903.0
+paso  3,890,000 |   703 fps | eps 0.010 | perdida 0.0235 | Q 5.209 | ultimos 20: 1040.0
+paso  3,900,000 |   709 fps | eps 0.010 | perdida 0.0238 | Q 5.226 | ultimos 20: 1099.2
+paso  3,910,000 |   705 fps | eps 0.010 | perdida 0.0235 | Q 5.212 | ultimos 20: 978.2
+paso  3,920,000 |   708 fps | eps 0.010 | perdida 0.0234 | Q 5.218 | ultimos 20: 906.2
+paso  3,930,000 |   704 fps | eps 0.010 | perdida 0.0241 | Q 5.217 | ultimos 20: 873.2
+paso  3,940,000 |   708 fps | eps 0.010 | perdida 0.0230 | Q 5.248 | ultimos 20: 946.5
+paso  3,950,000 |   702 fps | eps 0.010 | perdida 0.0250 | Q 5.265 | ultimos 20: 987.0
+paso  3,960,000 |   703 fps | eps 0.010 | perdida 0.0252 | Q 5.278 | ultimos 20: 1029.0
+paso  3,970,000 |   680 fps | eps 0.010 | perdida 0.0244 | Q 5.276 | ultimos 20: 985.5
+paso  3,980,000 |   695 fps | eps 0.010 | perdida 0.0235 | Q 5.250 | ultimos 20: 968.5
+paso  3,990,000 |   706 fps | eps 0.010 | perdida 0.0236 | Q 5.274 | ultimos 20: 1008.8
+paso  4,000,000 |   699 fps | eps 0.010 | perdida 0.0229 | Q 5.299 | ultimos 20: 1032.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 4,000,000: media 1020 +- 331 | max 1605 | E[mejor de 5] 1394
+paso  4,010,000 |   231 fps | eps 0.010 | perdida 0.0223 | Q 5.329 | ultimos 20: 925.8
+paso  4,020,000 |   714 fps | eps 0.010 | perdida 0.0235 | Q 5.321 | ultimos 20: 829.2
+paso  4,030,000 |   720 fps | eps 0.010 | perdida 0.0240 | Q 5.302 | ultimos 20: 897.2
+paso  4,040,000 |   718 fps | eps 0.010 | perdida 0.0240 | Q 5.279 | ultimos 20: 893.5
+paso  4,050,000 |   718 fps | eps 0.010 | perdida 0.0234 | Q 5.295 | ultimos 20: 947.8
+paso  4,060,000 |   706 fps | eps 0.010 | perdida 0.0235 | Q 5.300 | ultimos 20: 941.2
+paso  4,070,000 |   712 fps | eps 0.010 | perdida 0.0228 | Q 5.273 | ultimos 20: 980.8
+paso  4,080,000 |   714 fps | eps 0.010 | perdida 0.0240 | Q 5.295 | ultimos 20: 932.5
+paso  4,090,000 |   706 fps | eps 0.010 | perdida 0.0215 | Q 5.311 | ultimos 20: 1006.2
+paso  4,100,000 |   707 fps | eps 0.010 | perdida 0.0219 | Q 5.329 | ultimos 20: 860.8
+paso  4,110,000 |   702 fps | eps 0.010 | perdida 0.0214 | Q 5.308 | ultimos 20: 870.2
+paso  4,120,000 |   714 fps | eps 0.010 | perdida 0.0217 | Q 5.292 | ultimos 20: 887.5
+paso  4,130,000 |   704 fps | eps 0.010 | perdida 0.0226 | Q 5.272 | ultimos 20: 858.0
+paso  4,140,000 |   705 fps | eps 0.010 | perdida 0.0215 | Q 5.275 | ultimos 20: 873.2
+paso  4,150,000 |   691 fps | eps 0.010 | perdida 0.0214 | Q 5.251 | ultimos 20: 857.5
+paso  4,160,000 |   707 fps | eps 0.010 | perdida 0.0226 | Q 5.272 | ultimos 20: 853.8
+paso  4,170,000 |   700 fps | eps 0.010 | perdida 0.0224 | Q 5.303 | ultimos 20: 818.2
+paso  4,180,000 |   704 fps | eps 0.010 | perdida 0.0237 | Q 5.295 | ultimos 20: 886.0
+paso  4,190,000 |   701 fps | eps 0.010 | perdida 0.0234 | Q 5.315 | ultimos 20: 984.2
+paso  4,200,000 |   703 fps | eps 0.010 | perdida 0.0241 | Q 5.325 | ultimos 20: 922.5
+paso  4,210,000 |   702 fps | eps 0.010 | perdida 0.0227 | Q 5.308 | ultimos 20: 829.5
+paso  4,220,000 |   708 fps | eps 0.010 | perdida 0.0233 | Q 5.316 | ultimos 20: 856.0
+paso  4,230,000 |   695 fps | eps 0.010 | perdida 0.0213 | Q 5.332 | ultimos 20: 872.0
+paso  4,240,000 |   702 fps | eps 0.010 | perdida 0.0231 | Q 5.331 | ultimos 20: 850.5
+paso  4,250,000 |   700 fps | eps 0.010 | perdida 0.0230 | Q 5.321 | ultimos 20: 887.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 4,250,000: media 872 +- 310 | max 1200 | E[mejor de 5] 1171
+paso  4,260,000 |   231 fps | eps 0.010 | perdida 0.0242 | Q 5.329 | ultimos 20: 1012.0
+paso  4,270,000 |   725 fps | eps 0.010 | perdida 0.0221 | Q 5.354 | ultimos 20: 1094.2
+paso  4,280,000 |   714 fps | eps 0.010 | perdida 0.0229 | Q 5.357 | ultimos 20: 1031.8
+paso  4,290,000 |   670 fps | eps 0.010 | perdida 0.0232 | Q 5.354 | ultimos 20: 905.5
+paso  4,300,000 |   715 fps | eps 0.010 | perdida 0.0236 | Q 5.347 | ultimos 20: 859.0
+paso  4,310,000 |   715 fps | eps 0.010 | perdida 0.0235 | Q 5.343 | ultimos 20: 976.8
+paso  4,320,000 |   704 fps | eps 0.010 | perdida 0.0224 | Q 5.329 | ultimos 20: 950.8
+paso  4,330,000 |   717 fps | eps 0.010 | perdida 0.0230 | Q 5.364 | ultimos 20: 1002.8
+paso  4,340,000 |   704 fps | eps 0.010 | perdida 0.0229 | Q 5.347 | ultimos 20: 1061.0
+paso  4,350,000 |   707 fps | eps 0.010 | perdida 0.0216 | Q 5.346 | ultimos 20: 944.8
+paso  4,360,000 |   702 fps | eps 0.010 | perdida 0.0227 | Q 5.346 | ultimos 20: 837.5
+paso  4,370,000 |   707 fps | eps 0.010 | perdida 0.0221 | Q 5.346 | ultimos 20: 920.8
+paso  4,380,000 |   709 fps | eps 0.010 | perdida 0.0224 | Q 5.342 | ultimos 20: 871.0
+paso  4,390,000 |   704 fps | eps 0.010 | perdida 0.0225 | Q 5.375 | ultimos 20: 938.8
+paso  4,400,000 |   708 fps | eps 0.010 | perdida 0.0235 | Q 5.370 | ultimos 20: 863.8
+paso  4,410,000 |   708 fps | eps 0.010 | perdida 0.0219 | Q 5.378 | ultimos 20: 915.8
+paso  4,420,000 |   705 fps | eps 0.010 | perdida 0.0217 | Q 5.405 | ultimos 20: 957.5
+paso  4,430,000 |   709 fps | eps 0.010 | perdida 0.0224 | Q 5.398 | ultimos 20: 968.5
+paso  4,440,000 |   707 fps | eps 0.010 | perdida 0.0233 | Q 5.397 | ultimos 20: 839.5
+paso  4,450,000 |   707 fps | eps 0.010 | perdida 0.0235 | Q 5.399 | ultimos 20: 917.0
+paso  4,460,000 |   709 fps | eps 0.010 | perdida 0.0219 | Q 5.421 | ultimos 20: 906.8
+paso  4,470,000 |   707 fps | eps 0.010 | perdida 0.0228 | Q 5.448 | ultimos 20: 1049.8
+paso  4,480,000 |   705 fps | eps 0.010 | perdida 0.0225 | Q 5.460 | ultimos 20: 1046.2
+paso  4,490,000 |   705 fps | eps 0.010 | perdida 0.0219 | Q 5.449 | ultimos 20: 941.5
+paso  4,500,000 |   705 fps | eps 0.010 | perdida 0.0211 | Q 5.424 | ultimos 20: 1035.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 4,500,000: media 1035 +- 431 | max 1945 | E[mejor de 5] 1564
+paso  4,510,000 |   224 fps | eps 0.010 | perdida 0.0211 | Q 5.418 | ultimos 20: 1085.0
+paso  4,520,000 |   728 fps | eps 0.010 | perdida 0.0221 | Q 5.425 | ultimos 20: 1171.2
+paso  4,530,000 |   726 fps | eps 0.010 | perdida 0.0212 | Q 5.400 | ultimos 20: 1101.0
+paso  4,540,000 |   715 fps | eps 0.010 | perdida 0.0228 | Q 5.431 | ultimos 20: 1047.0
+paso  4,550,000 |   694 fps | eps 0.010 | perdida 0.0216 | Q 5.447 | ultimos 20: 935.0
+paso  4,560,000 |   717 fps | eps 0.010 | perdida 0.0212 | Q 5.440 | ultimos 20: 854.0
+paso  4,570,000 |   716 fps | eps 0.010 | perdida 0.0212 | Q 5.449 | ultimos 20: 902.5
+paso  4,580,000 |   711 fps | eps 0.010 | perdida 0.0214 | Q 5.466 | ultimos 20: 917.5
+paso  4,590,000 |   718 fps | eps 0.010 | perdida 0.0222 | Q 5.454 | ultimos 20: 797.8
+paso  4,600,000 |   708 fps | eps 0.010 | perdida 0.0223 | Q 5.485 | ultimos 20: 1003.0
+paso  4,610,000 |   705 fps | eps 0.010 | perdida 0.0222 | Q 5.511 | ultimos 20: 1085.2
+paso  4,620,000 |   713 fps | eps 0.010 | perdida 0.0217 | Q 5.465 | ultimos 20: 1025.5
+paso  4,630,000 |   710 fps | eps 0.010 | perdida 0.0222 | Q 5.482 | ultimos 20: 948.0
+paso  4,640,000 |   718 fps | eps 0.010 | perdida 0.0225 | Q 5.485 | ultimos 20: 946.2
+paso  4,650,000 |   708 fps | eps 0.010 | perdida 0.0225 | Q 5.507 | ultimos 20: 1014.8
+paso  4,660,000 |   700 fps | eps 0.010 | perdida 0.0219 | Q 5.503 | ultimos 20: 1083.0
+paso  4,670,000 |   706 fps | eps 0.010 | perdida 0.0228 | Q 5.492 | ultimos 20: 1082.5
+paso  4,680,000 |   710 fps | eps 0.010 | perdida 0.0217 | Q 5.494 | ultimos 20: 1021.2
+paso  4,690,000 |   707 fps | eps 0.010 | perdida 0.0219 | Q 5.508 | ultimos 20: 977.2
+paso  4,700,000 |   704 fps | eps 0.010 | perdida 0.0235 | Q 5.544 | ultimos 20: 1000.8
+paso  4,710,000 |   704 fps | eps 0.010 | perdida 0.0225 | Q 5.551 | ultimos 20: 1039.2
+paso  4,720,000 |   712 fps | eps 0.010 | perdida 0.0221 | Q 5.534 | ultimos 20: 1029.2
+paso  4,730,000 |   702 fps | eps 0.010 | perdida 0.0231 | Q 5.570 | ultimos 20: 1056.0
+paso  4,740,000 |   704 fps | eps 0.010 | perdida 0.0227 | Q 5.568 | ultimos 20: 1059.2
+paso  4,750,000 |   710 fps | eps 0.010 | perdida 0.0225 | Q 5.576 | ultimos 20: 1171.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 4,750,000: media 1020 +- 375 | max 1590 | E[mejor de 5] 1419
+paso  4,760,000 |   222 fps | eps 0.010 | perdida 0.0216 | Q 5.554 | ultimos 20: 1151.0
+paso  4,770,000 |   717 fps | eps 0.010 | perdida 0.0219 | Q 5.562 | ultimos 20: 1015.2
+paso  4,780,000 |   722 fps | eps 0.010 | perdida 0.0214 | Q 5.551 | ultimos 20: 1143.2
+paso  4,790,000 |   724 fps | eps 0.010 | perdida 0.0219 | Q 5.517 | ultimos 20: 1113.8
+paso  4,800,000 |   717 fps | eps 0.010 | perdida 0.0229 | Q 5.541 | ultimos 20: 1031.8
+paso  4,810,000 |   711 fps | eps 0.010 | perdida 0.0229 | Q 5.551 | ultimos 20: 888.5
+paso  4,820,000 |   699 fps | eps 0.010 | perdida 0.0222 | Q 5.567 | ultimos 20: 935.2
+paso  4,830,000 |   719 fps | eps 0.010 | perdida 0.0231 | Q 5.558 | ultimos 20: 996.5
+paso  4,840,000 |   715 fps | eps 0.010 | perdida 0.0225 | Q 5.562 | ultimos 20: 1177.8
+paso  4,850,000 |   718 fps | eps 0.010 | perdida 0.0238 | Q 5.598 | ultimos 20: 1272.2
+paso  4,860,000 |   713 fps | eps 0.010 | perdida 0.0230 | Q 5.587 | ultimos 20: 1207.5
+paso  4,870,000 |   711 fps | eps 0.010 | perdida 0.0233 | Q 5.553 | ultimos 20: 1026.0
+paso  4,880,000 |   711 fps | eps 0.010 | perdida 0.0249 | Q 5.603 | ultimos 20: 912.2
+paso  4,890,000 |   699 fps | eps 0.010 | perdida 0.0238 | Q 5.604 | ultimos 20: 914.0
+paso  4,900,000 |   710 fps | eps 0.010 | perdida 0.0234 | Q 5.605 | ultimos 20: 898.2
+paso  4,910,000 |   704 fps | eps 0.010 | perdida 0.0238 | Q 5.626 | ultimos 20: 938.2
+paso  4,920,000 |   707 fps | eps 0.010 | perdida 0.0233 | Q 5.612 | ultimos 20: 1040.8
+paso  4,930,000 |   706 fps | eps 0.010 | perdida 0.0246 | Q 5.623 | ultimos 20: 1023.5
+paso  4,940,000 |   707 fps | eps 0.010 | perdida 0.0238 | Q 5.632 | ultimos 20: 1028.5
+paso  4,950,000 |   684 fps | eps 0.010 | perdida 0.0233 | Q 5.672 | ultimos 20: 1051.5
+paso  4,960,000 |   678 fps | eps 0.010 | perdida 0.0238 | Q 5.655 | ultimos 20: 1151.0
+paso  4,970,000 |   707 fps | eps 0.010 | perdida 0.0229 | Q 5.657 | ultimos 20: 1225.8
+paso  4,980,000 |   708 fps | eps 0.010 | perdida 0.0234 | Q 5.642 | ultimos 20: 1120.0
+paso  4,990,000 |   707 fps | eps 0.010 | perdida 0.0229 | Q 5.670 | ultimos 20: 1127.0
+paso  5,000,000 |   705 fps | eps 0.010 | perdida 0.0238 | Q 5.664 | ultimos 20: 1148.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 5,000,000: media 1055 +- 578 | max 2665 | E[mejor de 5] 1796  <- mejor
+paso  5,010,000 |   202 fps | eps 0.010 | perdida 0.0231 | Q 5.652 | ultimos 20: 1242.8
+paso  5,020,000 |   726 fps | eps 0.010 | perdida 0.0235 | Q 5.614 | ultimos 20: 1088.2
+paso  5,030,000 |   724 fps | eps 0.010 | perdida 0.0232 | Q 5.624 | ultimos 20: 960.8
+paso  5,040,000 |   725 fps | eps 0.010 | perdida 0.0232 | Q 5.631 | ultimos 20: 1032.5
+paso  5,050,000 |   720 fps | eps 0.010 | perdida 0.0230 | Q 5.631 | ultimos 20: 1147.2
+paso  5,060,000 |   719 fps | eps 0.010 | perdida 0.0232 | Q 5.638 | ultimos 20: 1017.8
+paso  5,070,000 |   714 fps | eps 0.010 | perdida 0.0222 | Q 5.636 | ultimos 20: 938.2
+paso  5,080,000 |   714 fps | eps 0.010 | perdida 0.0222 | Q 5.645 | ultimos 20: 932.2
+paso  5,090,000 |   715 fps | eps 0.010 | perdida 0.0231 | Q 5.644 | ultimos 20: 962.0
+paso  5,100,000 |   714 fps | eps 0.010 | perdida 0.0229 | Q 5.638 | ultimos 20: 989.0
+paso  5,110,000 |   715 fps | eps 0.010 | perdida 0.0243 | Q 5.644 | ultimos 20: 956.5
+paso  5,120,000 |   707 fps | eps 0.010 | perdida 0.0242 | Q 5.639 | ultimos 20: 906.0
+paso  5,130,000 |   715 fps | eps 0.010 | perdida 0.0227 | Q 5.651 | ultimos 20: 775.0
+paso  5,140,000 |   694 fps | eps 0.010 | perdida 0.0241 | Q 5.679 | ultimos 20: 944.5
+paso  5,150,000 |   698 fps | eps 0.010 | perdida 0.0242 | Q 5.669 | ultimos 20: 1066.8
+paso  5,160,000 |   708 fps | eps 0.010 | perdida 0.0238 | Q 5.666 | ultimos 20: 1107.8
+paso  5,170,000 |   709 fps | eps 0.010 | perdida 0.0238 | Q 5.688 | ultimos 20: 1194.5
+paso  5,180,000 |   706 fps | eps 0.010 | perdida 0.0244 | Q 5.691 | ultimos 20: 1185.5
+paso  5,190,000 |   710 fps | eps 0.010 | perdida 0.0238 | Q 5.668 | ultimos 20: 1180.5
+paso  5,200,000 |   707 fps | eps 0.010 | perdida 0.0225 | Q 5.691 | ultimos 20: 918.8
+paso  5,210,000 |   707 fps | eps 0.010 | perdida 0.0234 | Q 5.702 | ultimos 20: 927.0
+paso  5,220,000 |   704 fps | eps 0.010 | perdida 0.0242 | Q 5.735 | ultimos 20: 933.5
+paso  5,230,000 |   704 fps | eps 0.010 | perdida 0.0241 | Q 5.724 | ultimos 20: 1019.5
+paso  5,240,000 |   707 fps | eps 0.010 | perdida 0.0230 | Q 5.766 | ultimos 20: 1065.2
+paso  5,250,000 |   702 fps | eps 0.010 | perdida 0.0236 | Q 5.752 | ultimos 20: 1200.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 5,250,000: media 1110 +- 368 | max 1805 | E[mejor de 5] 1494
+paso  5,260,000 |   226 fps | eps 0.010 | perdida 0.0233 | Q 5.729 | ultimos 20: 1164.0
+paso  5,270,000 |   721 fps | eps 0.010 | perdida 0.0233 | Q 5.771 | ultimos 20: 1237.2
+paso  5,280,000 |   721 fps | eps 0.010 | perdida 0.0229 | Q 5.766 | ultimos 20: 1069.8
+paso  5,290,000 |   719 fps | eps 0.010 | perdida 0.0231 | Q 5.780 | ultimos 20: 1028.0
+paso  5,300,000 |   719 fps | eps 0.010 | perdida 0.0238 | Q 5.786 | ultimos 20: 961.0
+paso  5,310,000 |   707 fps | eps 0.010 | perdida 0.0239 | Q 5.776 | ultimos 20: 1099.5
+paso  5,320,000 |   712 fps | eps 0.010 | perdida 0.0237 | Q 5.758 | ultimos 20: 1058.0
+paso  5,330,000 |   702 fps | eps 0.010 | perdida 0.0231 | Q 5.747 | ultimos 20: 1082.8
+paso  5,340,000 |   708 fps | eps 0.010 | perdida 0.0231 | Q 5.763 | ultimos 20: 1018.8
+paso  5,350,000 |   708 fps | eps 0.010 | perdida 0.0224 | Q 5.695 | ultimos 20: 929.5
+paso  5,360,000 |   702 fps | eps 0.010 | perdida 0.0230 | Q 5.722 | ultimos 20: 921.2
+paso  5,370,000 |   708 fps | eps 0.010 | perdida 0.0222 | Q 5.736 | ultimos 20: 1068.5
+paso  5,380,000 |   702 fps | eps 0.010 | perdida 0.0235 | Q 5.766 | ultimos 20: 1177.5
+paso  5,390,000 |   707 fps | eps 0.010 | perdida 0.0238 | Q 5.773 | ultimos 20: 937.2
+paso  5,400,000 |   706 fps | eps 0.010 | perdida 0.0240 | Q 5.764 | ultimos 20: 907.8
+paso  5,410,000 |   704 fps | eps 0.010 | perdida 0.0235 | Q 5.772 | ultimos 20: 928.8
+paso  5,420,000 |   710 fps | eps 0.010 | perdida 0.0216 | Q 5.761 | ultimos 20: 1057.5
+paso  5,430,000 |   709 fps | eps 0.010 | perdida 0.0228 | Q 5.753 | ultimos 20: 1117.8
+paso  5,440,000 |   709 fps | eps 0.010 | perdida 0.0224 | Q 5.757 | ultimos 20: 1184.0
+paso  5,450,000 |   711 fps | eps 0.010 | perdida 0.0225 | Q 5.790 | ultimos 20: 1019.8
+paso  5,460,000 |   712 fps | eps 0.010 | perdida 0.0233 | Q 5.797 | ultimos 20: 1047.8
+paso  5,470,000 |   706 fps | eps 0.010 | perdida 0.0234 | Q 5.771 | ultimos 20: 897.2
+paso  5,480,000 |   704 fps | eps 0.010 | perdida 0.0230 | Q 5.764 | ultimos 20: 869.8
+paso  5,490,000 |   702 fps | eps 0.010 | perdida 0.0243 | Q 5.830 | ultimos 20: 875.5
+paso  5,500,000 |   691 fps | eps 0.010 | perdida 0.0244 | Q 5.793 | ultimos 20: 991.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 5,500,000: media 1121 +- 483 | max 2550 | E[mejor de 5] 1692
+paso  5,510,000 |   223 fps | eps 0.010 | perdida 0.0228 | Q 5.768 | ultimos 20: 1121.8
+paso  5,520,000 |   717 fps | eps 0.010 | perdida 0.0230 | Q 5.760 | ultimos 20: 1172.2
+paso  5,530,000 |   723 fps | eps 0.010 | perdida 0.0241 | Q 5.779 | ultimos 20: 1156.2
+paso  5,540,000 |   722 fps | eps 0.010 | perdida 0.0235 | Q 5.787 | ultimos 20: 1042.8
+paso  5,550,000 |   711 fps | eps 0.010 | perdida 0.0232 | Q 5.783 | ultimos 20: 1094.2
+paso  5,560,000 |   712 fps | eps 0.010 | perdida 0.0243 | Q 5.816 | ultimos 20: 1111.0
+paso  5,570,000 |   710 fps | eps 0.010 | perdida 0.0238 | Q 5.885 | ultimos 20: 1309.0
+paso  5,580,000 |   709 fps | eps 0.010 | perdida 0.0237 | Q 5.874 | ultimos 20: 1220.8
+paso  5,590,000 |   708 fps | eps 0.010 | perdida 0.0234 | Q 5.877 | ultimos 20: 1117.8
+paso  5,600,000 |   702 fps | eps 0.010 | perdida 0.0234 | Q 5.867 | ultimos 20: 993.2
+paso  5,610,000 |   706 fps | eps 0.010 | perdida 0.0235 | Q 5.895 | ultimos 20: 1079.2
+paso  5,620,000 |   708 fps | eps 0.010 | perdida 0.0240 | Q 5.928 | ultimos 20: 1075.0
+paso  5,630,000 |   711 fps | eps 0.010 | perdida 0.0238 | Q 5.924 | ultimos 20: 1105.8
+paso  5,640,000 |   701 fps | eps 0.010 | perdida 0.0240 | Q 5.904 | ultimos 20: 995.0
+paso  5,650,000 |   705 fps | eps 0.010 | perdida 0.0238 | Q 5.903 | ultimos 20: 1029.2
+paso  5,660,000 |   700 fps | eps 0.010 | perdida 0.0227 | Q 5.904 | ultimos 20: 967.0
+paso  5,670,000 |   706 fps | eps 0.010 | perdida 0.0232 | Q 5.908 | ultimos 20: 1071.5
+paso  5,680,000 |   709 fps | eps 0.010 | perdida 0.0240 | Q 5.922 | ultimos 20: 1062.2
+paso  5,690,000 |   702 fps | eps 0.010 | perdida 0.0248 | Q 5.931 | ultimos 20: 1184.0
+paso  5,700,000 |   705 fps | eps 0.010 | perdida 0.0238 | Q 5.902 | ultimos 20: 1226.8
+paso  5,710,000 |   713 fps | eps 0.010 | perdida 0.0231 | Q 5.899 | ultimos 20: 1223.2
+paso  5,720,000 |   707 fps | eps 0.010 | perdida 0.0237 | Q 5.918 | ultimos 20: 1164.5
+paso  5,730,000 |   690 fps | eps 0.010 | perdida 0.0228 | Q 5.907 | ultimos 20: 1172.0
+paso  5,740,000 |   690 fps | eps 0.010 | perdida 0.0242 | Q 5.908 | ultimos 20: 1188.0
+paso  5,750,000 |   710 fps | eps 0.010 | perdida 0.0242 | Q 5.891 | ultimos 20: 1094.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 5,750,000: media 1245 +- 348 | max 1920 | E[mejor de 5] 1632
+paso  5,760,000 |   217 fps | eps 0.010 | perdida 0.0238 | Q 5.912 | ultimos 20: 1030.8
+paso  5,770,000 |   733 fps | eps 0.010 | perdida 0.0246 | Q 5.926 | ultimos 20: 1041.0
+paso  5,780,000 |   730 fps | eps 0.010 | perdida 0.0236 | Q 5.961 | ultimos 20: 1076.5
+paso  5,790,000 |   725 fps | eps 0.010 | perdida 0.0236 | Q 5.992 | ultimos 20: 1244.5
+paso  5,800,000 |   722 fps | eps 0.010 | perdida 0.0240 | Q 6.017 | ultimos 20: 1168.0
+paso  5,810,000 |   711 fps | eps 0.010 | perdida 0.0251 | Q 6.034 | ultimos 20: 1141.8
+paso  5,820,000 |   718 fps | eps 0.010 | perdida 0.0246 | Q 6.034 | ultimos 20: 1034.0
+paso  5,830,000 |   713 fps | eps 0.010 | perdida 0.0249 | Q 6.020 | ultimos 20: 1096.2
+paso  5,840,000 |   713 fps | eps 0.010 | perdida 0.0242 | Q 6.022 | ultimos 20: 1071.5
+paso  5,850,000 |   707 fps | eps 0.010 | perdida 0.0249 | Q 6.010 | ultimos 20: 1140.0
+paso  5,860,000 |   710 fps | eps 0.010 | perdida 0.0241 | Q 6.045 | ultimos 20: 1126.2
+paso  5,870,000 |   709 fps | eps 0.010 | perdida 0.0243 | Q 6.085 | ultimos 20: 1257.8
+paso  5,880,000 |   710 fps | eps 0.010 | perdida 0.0249 | Q 6.063 | ultimos 20: 1094.0
+paso  5,890,000 |   710 fps | eps 0.010 | perdida 0.0234 | Q 6.025 | ultimos 20: 1139.8
+paso  5,900,000 |   705 fps | eps 0.010 | perdida 0.0250 | Q 6.029 | ultimos 20: 1004.0
+paso  5,910,000 |   706 fps | eps 0.010 | perdida 0.0248 | Q 6.027 | ultimos 20: 834.2
+paso  5,920,000 |   700 fps | eps 0.010 | perdida 0.0246 | Q 6.049 | ultimos 20: 813.5
+paso  5,930,000 |   703 fps | eps 0.010 | perdida 0.0248 | Q 6.079 | ultimos 20: 842.2
+paso  5,940,000 |   712 fps | eps 0.010 | perdida 0.0245 | Q 6.070 | ultimos 20: 969.8
+paso  5,950,000 |   703 fps | eps 0.010 | perdida 0.0263 | Q 6.071 | ultimos 20: 1102.0
+paso  5,960,000 |   707 fps | eps 0.010 | perdida 0.0235 | Q 6.086 | ultimos 20: 1072.8
+paso  5,970,000 |   707 fps | eps 0.010 | perdida 0.0250 | Q 6.083 | ultimos 20: 1042.8
+paso  5,980,000 |   710 fps | eps 0.010 | perdida 0.0248 | Q 6.100 | ultimos 20: 1100.8
+paso  5,990,000 |   710 fps | eps 0.010 | perdida 0.0244 | Q 6.126 | ultimos 20: 1117.8
+paso  6,000,000 |   706 fps | eps 0.010 | perdida 0.0246 | Q 6.139 | ultimos 20: 989.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 6,000,000: media 1080 +- 444 | max 2005 | E[mejor de 5] 1621
+paso  6,010,000 |   235 fps | eps 0.010 | perdida 0.0249 | Q 6.116 | ultimos 20: 945.5
+paso  6,020,000 |   724 fps | eps 0.010 | perdida 0.0252 | Q 6.116 | ultimos 20: 983.5
+paso  6,030,000 |   724 fps | eps 0.010 | perdida 0.0243 | Q 6.161 | ultimos 20: 1000.5
+paso  6,040,000 |   721 fps | eps 0.010 | perdida 0.0245 | Q 6.172 | ultimos 20: 1004.5
+paso  6,050,000 |   716 fps | eps 0.010 | perdida 0.0252 | Q 6.185 | ultimos 20: 974.8
+paso  6,060,000 |   712 fps | eps 0.010 | perdida 0.0242 | Q 6.185 | ultimos 20: 1067.2
+paso  6,070,000 |   713 fps | eps 0.010 | perdida 0.0233 | Q 6.198 | ultimos 20: 1140.2
+paso  6,080,000 |   711 fps | eps 0.010 | perdida 0.0248 | Q 6.190 | ultimos 20: 1018.2
+paso  6,090,000 |   709 fps | eps 0.010 | perdida 0.0249 | Q 6.173 | ultimos 20: 969.8
+paso  6,100,000 |   712 fps | eps 0.010 | perdida 0.0249 | Q 6.154 | ultimos 20: 1003.8
+paso  6,110,000 |   708 fps | eps 0.010 | perdida 0.0258 | Q 6.122 | ultimos 20: 1076.2
+paso  6,120,000 |   686 fps | eps 0.010 | perdida 0.0264 | Q 6.125 | ultimos 20: 1007.5
+paso  6,130,000 |   686 fps | eps 0.010 | perdida 0.0256 | Q 6.145 | ultimos 20: 945.2
+paso  6,140,000 |   719 fps | eps 0.010 | perdida 0.0245 | Q 6.149 | ultimos 20: 1028.2
+paso  6,150,000 |   716 fps | eps 0.010 | perdida 0.0272 | Q 6.163 | ultimos 20: 1077.8
+paso  6,160,000 |   717 fps | eps 0.010 | perdida 0.0258 | Q 6.148 | ultimos 20: 1091.5
+paso  6,170,000 |   709 fps | eps 0.010 | perdida 0.0252 | Q 6.106 | ultimos 20: 1087.8
+paso  6,180,000 |   717 fps | eps 0.010 | perdida 0.0252 | Q 6.129 | ultimos 20: 1059.5
+paso  6,190,000 |   715 fps | eps 0.010 | perdida 0.0250 | Q 6.113 | ultimos 20: 1087.0
+paso  6,200,000 |   714 fps | eps 0.010 | perdida 0.0259 | Q 6.095 | ultimos 20: 1091.2
+paso  6,210,000 |   714 fps | eps 0.010 | perdida 0.0242 | Q 6.078 | ultimos 20: 1189.2
+paso  6,220,000 |   709 fps | eps 0.010 | perdida 0.0250 | Q 6.086 | ultimos 20: 1221.0
+paso  6,230,000 |   709 fps | eps 0.010 | perdida 0.0261 | Q 6.099 | ultimos 20: 1253.0
+paso  6,240,000 |   710 fps | eps 0.010 | perdida 0.0249 | Q 6.112 | ultimos 20: 1049.0
+paso  6,250,000 |   710 fps | eps 0.010 | perdida 0.0249 | Q 6.123 | ultimos 20: 965.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 6,250,000: media 1058 +- 477 | max 2150 | E[mejor de 5] 1638
+paso  6,260,000 |   214 fps | eps 0.010 | perdida 0.0254 | Q 6.121 | ultimos 20: 1009.5
+paso  6,270,000 |   733 fps | eps 0.010 | perdida 0.0254 | Q 6.117 | ultimos 20: 1168.5
+paso  6,280,000 |   733 fps | eps 0.010 | perdida 0.0247 | Q 6.122 | ultimos 20: 1282.0
+paso  6,290,000 |   735 fps | eps 0.010 | perdida 0.0248 | Q 6.119 | ultimos 20: 1249.5
+paso  6,300,000 |   727 fps | eps 0.010 | perdida 0.0257 | Q 6.105 | ultimos 20: 1052.8
+paso  6,310,000 |   725 fps | eps 0.010 | perdida 0.0246 | Q 6.101 | ultimos 20: 1083.8
+paso  6,320,000 |   710 fps | eps 0.010 | perdida 0.0238 | Q 6.082 | ultimos 20: 1052.5
+paso  6,330,000 |   723 fps | eps 0.010 | perdida 0.0248 | Q 6.105 | ultimos 20: 1114.2
+paso  6,340,000 |   726 fps | eps 0.010 | perdida 0.0245 | Q 6.107 | ultimos 20: 1095.0
+paso  6,350,000 |   719 fps | eps 0.010 | perdida 0.0247 | Q 6.100 | ultimos 20: 1162.8
+paso  6,360,000 |   720 fps | eps 0.010 | perdida 0.0242 | Q 6.081 | ultimos 20: 1124.2
+paso  6,370,000 |   718 fps | eps 0.010 | perdida 0.0248 | Q 6.081 | ultimos 20: 1067.5
+paso  6,380,000 |   709 fps | eps 0.010 | perdida 0.0244 | Q 6.085 | ultimos 20: 1143.0
+paso  6,390,000 |   723 fps | eps 0.010 | perdida 0.0263 | Q 6.056 | ultimos 20: 1245.5
+paso  6,400,000 |   719 fps | eps 0.010 | perdida 0.0256 | Q 6.027 | ultimos 20: 1278.5
+paso  6,410,000 |   715 fps | eps 0.010 | perdida 0.0241 | Q 6.009 | ultimos 20: 1079.8
+paso  6,420,000 |   714 fps | eps 0.010 | perdida 0.0227 | Q 6.020 | ultimos 20: 978.2
+paso  6,430,000 |   713 fps | eps 0.010 | perdida 0.0237 | Q 6.028 | ultimos 20: 1000.2
+paso  6,440,000 |   718 fps | eps 0.010 | perdida 0.0242 | Q 6.027 | ultimos 20: 1033.2
+paso  6,450,000 |   718 fps | eps 0.010 | perdida 0.0237 | Q 6.031 | ultimos 20: 1117.2
+paso  6,460,000 |   714 fps | eps 0.010 | perdida 0.0238 | Q 6.038 | ultimos 20: 1179.2
+paso  6,470,000 |   712 fps | eps 0.010 | perdida 0.0250 | Q 6.033 | ultimos 20: 1209.8
+paso  6,480,000 |   713 fps | eps 0.010 | perdida 0.0251 | Q 6.062 | ultimos 20: 1279.2
+paso  6,490,000 |   713 fps | eps 0.010 | perdida 0.0245 | Q 6.085 | ultimos 20: 1148.2
+paso  6,500,000 |   716 fps | eps 0.010 | perdida 0.0246 | Q 6.055 | ultimos 20: 991.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 6,500,000: media 1166 +- 547 | max 2780 | E[mejor de 5] 1824  <- mejor
+paso  6,510,000 |   212 fps | eps 0.010 | perdida 0.0252 | Q 6.031 | ultimos 20: 1169.0
+paso  6,520,000 |   730 fps | eps 0.010 | perdida 0.0246 | Q 6.001 | ultimos 20: 1290.0
+paso  6,530,000 |   736 fps | eps 0.010 | perdida 0.0243 | Q 6.018 | ultimos 20: 1299.0
+paso  6,540,000 |   728 fps | eps 0.010 | perdida 0.0240 | Q 6.013 | ultimos 20: 1133.2
+paso  6,550,000 |   729 fps | eps 0.010 | perdida 0.0242 | Q 6.030 | ultimos 20: 1146.5
+paso  6,560,000 |   723 fps | eps 0.010 | perdida 0.0254 | Q 6.023 | ultimos 20: 1243.8
+paso  6,570,000 |   723 fps | eps 0.010 | perdida 0.0241 | Q 6.045 | ultimos 20: 1189.8
+paso  6,580,000 |   723 fps | eps 0.010 | perdida 0.0235 | Q 6.011 | ultimos 20: 1230.2
+paso  6,590,000 |   717 fps | eps 0.010 | perdida 0.0241 | Q 6.056 | ultimos 20: 1247.2
+paso  6,600,000 |   719 fps | eps 0.010 | perdida 0.0241 | Q 6.055 | ultimos 20: 1329.2
+paso  6,610,000 |   720 fps | eps 0.010 | perdida 0.0244 | Q 6.048 | ultimos 20: 1160.0
+paso  6,620,000 |   714 fps | eps 0.010 | perdida 0.0237 | Q 6.070 | ultimos 20: 1107.2
+paso  6,630,000 |   717 fps | eps 0.010 | perdida 0.0237 | Q 6.067 | ultimos 20: 1110.5
+paso  6,640,000 |   717 fps | eps 0.010 | perdida 0.0244 | Q 6.087 | ultimos 20: 1213.2
+paso  6,650,000 |   718 fps | eps 0.010 | perdida 0.0247 | Q 6.097 | ultimos 20: 1225.2
+paso  6,660,000 |   719 fps | eps 0.010 | perdida 0.0244 | Q 6.110 | ultimos 20: 1181.5
+paso  6,670,000 |   717 fps | eps 0.010 | perdida 0.0249 | Q 6.107 | ultimos 20: 1236.0
+paso  6,680,000 |   712 fps | eps 0.010 | perdida 0.0243 | Q 6.098 | ultimos 20: 1243.5
+paso  6,690,000 |   715 fps | eps 0.010 | perdida 0.0227 | Q 6.092 | ultimos 20: 1131.2
+paso  6,700,000 |   713 fps | eps 0.010 | perdida 0.0238 | Q 6.088 | ultimos 20: 1045.2
+paso  6,710,000 |   716 fps | eps 0.010 | perdida 0.0243 | Q 6.062 | ultimos 20: 1098.8
+paso  6,720,000 |   703 fps | eps 0.010 | perdida 0.0243 | Q 6.098 | ultimos 20: 1156.2
+paso  6,730,000 |   719 fps | eps 0.010 | perdida 0.0240 | Q 6.090 | ultimos 20: 1036.2
+paso  6,740,000 |   715 fps | eps 0.010 | perdida 0.0243 | Q 6.077 | ultimos 20: 1027.8
+paso  6,750,000 |   714 fps | eps 0.010 | perdida 0.0250 | Q 6.086 | ultimos 20: 1007.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 6,750,000: media 1260 +- 234 | max 1905 | E[mejor de 5] 1536
+paso  6,760,000 |   235 fps | eps 0.010 | perdida 0.0248 | Q 6.073 | ultimos 20: 1025.8
+paso  6,770,000 |   732 fps | eps 0.010 | perdida 0.0257 | Q 6.061 | ultimos 20: 1069.2
+paso  6,780,000 |   725 fps | eps 0.010 | perdida 0.0245 | Q 6.082 | ultimos 20: 1113.0
+paso  6,790,000 |   725 fps | eps 0.010 | perdida 0.0243 | Q 6.079 | ultimos 20: 1075.2
+paso  6,800,000 |   728 fps | eps 0.010 | perdida 0.0250 | Q 6.068 | ultimos 20: 1100.8
+paso  6,810,000 |   715 fps | eps 0.010 | perdida 0.0242 | Q 6.091 | ultimos 20: 1163.5
+paso  6,820,000 |   716 fps | eps 0.010 | perdida 0.0250 | Q 6.101 | ultimos 20: 1039.5
+paso  6,830,000 |   718 fps | eps 0.010 | perdida 0.0245 | Q 6.097 | ultimos 20: 1146.0
+paso  6,840,000 |   720 fps | eps 0.010 | perdida 0.0265 | Q 6.075 | ultimos 20: 1107.2
+paso  6,850,000 |   724 fps | eps 0.010 | perdida 0.0259 | Q 6.048 | ultimos 20: 1209.0
+paso  6,860,000 |   712 fps | eps 0.010 | perdida 0.0251 | Q 6.048 | ultimos 20: 1288.8
+paso  6,870,000 |   712 fps | eps 0.010 | perdida 0.0254 | Q 6.033 | ultimos 20: 1321.0
+paso  6,880,000 |   717 fps | eps 0.010 | perdida 0.0249 | Q 6.063 | ultimos 20: 1199.8
+paso  6,890,000 |   716 fps | eps 0.010 | perdida 0.0250 | Q 6.059 | ultimos 20: 1241.2
+paso  6,900,000 |   715 fps | eps 0.010 | perdida 0.0252 | Q 6.032 | ultimos 20: 1198.8
+paso  6,910,000 |   706 fps | eps 0.010 | perdida 0.0246 | Q 6.034 | ultimos 20: 1153.8
+paso  6,920,000 |   711 fps | eps 0.010 | perdida 0.0252 | Q 6.052 | ultimos 20: 1092.8
+paso  6,930,000 |   696 fps | eps 0.010 | perdida 0.0245 | Q 6.031 | ultimos 20: 1209.2
+paso  6,940,000 |   708 fps | eps 0.010 | perdida 0.0249 | Q 6.039 | ultimos 20: 1192.8
+paso  6,950,000 |   715 fps | eps 0.010 | perdida 0.0249 | Q 6.007 | ultimos 20: 1278.0
+paso  6,960,000 |   700 fps | eps 0.010 | perdida 0.0245 | Q 5.989 | ultimos 20: 1285.5
+paso  6,970,000 |   675 fps | eps 0.010 | perdida 0.0244 | Q 5.998 | ultimos 20: 1300.8
+paso  6,980,000 |   639 fps | eps 0.010 | perdida 0.0245 | Q 5.972 | ultimos 20: 1239.8
+paso  6,990,000 |   488 fps | eps 0.010 | perdida 0.0247 | Q 5.992 | ultimos 20: 1151.2
+paso  7,000,000 |   611 fps | eps 0.010 | perdida 0.0258 | Q 5.985 | ultimos 20: 1184.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 7,000,000: media 1567 +- 600 | max 2400 | E[mejor de 5] 2176  <- mejor
+paso  7,010,000 |   179 fps | eps 0.010 | perdida 0.0241 | Q 5.981 | ultimos 20: 1186.5
+paso  7,020,000 |   677 fps | eps 0.010 | perdida 0.0247 | Q 5.992 | ultimos 20: 1131.8
+paso  7,030,000 |   657 fps | eps 0.010 | perdida 0.0239 | Q 6.005 | ultimos 20: 1175.5
+paso  7,040,000 |   671 fps | eps 0.010 | perdida 0.0251 | Q 6.002 | ultimos 20: 1043.2
+paso  7,050,000 |   658 fps | eps 0.010 | perdida 0.0233 | Q 6.014 | ultimos 20: 1133.2
+paso  7,060,000 |   668 fps | eps 0.010 | perdida 0.0230 | Q 6.019 | ultimos 20: 1148.2
+paso  7,070,000 |   639 fps | eps 0.010 | perdida 0.0247 | Q 6.029 | ultimos 20: 1333.0
+paso  7,080,000 |   658 fps | eps 0.010 | perdida 0.0237 | Q 6.000 | ultimos 20: 1437.5
+paso  7,090,000 |   643 fps | eps 0.010 | perdida 0.0250 | Q 5.992 | ultimos 20: 1441.0
+paso  7,100,000 |   663 fps | eps 0.010 | perdida 0.0234 | Q 5.973 | ultimos 20: 1262.8
+paso  7,110,000 |   647 fps | eps 0.010 | perdida 0.0236 | Q 5.976 | ultimos 20: 1311.0
+paso  7,120,000 |   657 fps | eps 0.010 | perdida 0.0241 | Q 5.992 | ultimos 20: 1350.8
+paso  7,130,000 |   644 fps | eps 0.010 | perdida 0.0250 | Q 5.975 | ultimos 20: 1239.5
+paso  7,140,000 |   658 fps | eps 0.010 | perdida 0.0230 | Q 5.989 | ultimos 20: 1055.2
+paso  7,150,000 |   647 fps | eps 0.010 | perdida 0.0240 | Q 5.993 | ultimos 20: 1013.0
+paso  7,160,000 |   650 fps | eps 0.010 | perdida 0.0241 | Q 5.966 | ultimos 20: 1096.0
+paso  7,170,000 |   656 fps | eps 0.010 | perdida 0.0246 | Q 5.975 | ultimos 20: 1009.8
+paso  7,180,000 |   652 fps | eps 0.010 | perdida 0.0243 | Q 5.963 | ultimos 20: 892.5
+paso  7,190,000 |   658 fps | eps 0.010 | perdida 0.0252 | Q 5.970 | ultimos 20: 873.0
+paso  7,200,000 |   668 fps | eps 0.010 | perdida 0.0240 | Q 5.975 | ultimos 20: 998.0
+paso  7,210,000 |   716 fps | eps 0.010 | perdida 0.0252 | Q 5.987 | ultimos 20: 1096.0
+paso  7,220,000 |   716 fps | eps 0.010 | perdida 0.0254 | Q 6.017 | ultimos 20: 1252.8
+paso  7,230,000 |   710 fps | eps 0.010 | perdida 0.0255 | Q 6.040 | ultimos 20: 1219.5
+paso  7,240,000 |   706 fps | eps 0.010 | perdida 0.0248 | Q 6.058 | ultimos 20: 924.8
+paso  7,250,000 |   698 fps | eps 0.010 | perdida 0.0246 | Q 6.052 | ultimos 20: 985.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 7,250,000: media 1264 +- 488 | max 2425 | E[mejor de 5] 1845
+paso  7,260,000 |   211 fps | eps 0.010 | perdida 0.0257 | Q 6.061 | ultimos 20: 1111.2
+paso  7,270,000 |   695 fps | eps 0.010 | perdida 0.0264 | Q 6.000 | ultimos 20: 1148.2
+paso  7,280,000 |   709 fps | eps 0.010 | perdida 0.0251 | Q 6.015 | ultimos 20: 1178.8
+paso  7,290,000 |   725 fps | eps 0.010 | perdida 0.0238 | Q 6.013 | ultimos 20: 1103.2
+paso  7,300,000 |   725 fps | eps 0.010 | perdida 0.0246 | Q 6.034 | ultimos 20: 1241.5
+paso  7,310,000 |   720 fps | eps 0.010 | perdida 0.0243 | Q 6.039 | ultimos 20: 1204.2
+paso  7,320,000 |   715 fps | eps 0.010 | perdida 0.0250 | Q 6.016 | ultimos 20: 1019.2
+paso  7,330,000 |   718 fps | eps 0.010 | perdida 0.0248 | Q 6.021 | ultimos 20: 848.2
+paso  7,340,000 |   709 fps | eps 0.010 | perdida 0.0243 | Q 6.039 | ultimos 20: 994.8
+paso  7,350,000 |   709 fps | eps 0.010 | perdida 0.0257 | Q 6.069 | ultimos 20: 1166.8
+paso  7,360,000 |   713 fps | eps 0.010 | perdida 0.0258 | Q 6.101 | ultimos 20: 1217.8
+paso  7,370,000 |   714 fps | eps 0.010 | perdida 0.0262 | Q 6.092 | ultimos 20: 1059.2
+paso  7,380,000 |   711 fps | eps 0.010 | perdida 0.0263 | Q 6.052 | ultimos 20: 1097.2
+paso  7,390,000 |   719 fps | eps 0.010 | perdida 0.0258 | Q 6.056 | ultimos 20: 1232.8
+paso  7,400,000 |   715 fps | eps 0.010 | perdida 0.0250 | Q 6.046 | ultimos 20: 1292.0
+paso  7,410,000 |   715 fps | eps 0.010 | perdida 0.0250 | Q 6.065 | ultimos 20: 1298.8
+paso  7,420,000 |   708 fps | eps 0.010 | perdida 0.0248 | Q 6.100 | ultimos 20: 1195.8
+paso  7,430,000 |   708 fps | eps 0.010 | perdida 0.0253 | Q 6.107 | ultimos 20: 1242.2
+paso  7,440,000 |   709 fps | eps 0.010 | perdida 0.0261 | Q 6.099 | ultimos 20: 1314.0
+paso  7,450,000 |   712 fps | eps 0.010 | perdida 0.0254 | Q 6.083 | ultimos 20: 1375.2
+paso  7,460,000 |   706 fps | eps 0.010 | perdida 0.0264 | Q 6.058 | ultimos 20: 1336.8
+paso  7,470,000 |   707 fps | eps 0.010 | perdida 0.0272 | Q 6.054 | ultimos 20: 1269.2
+paso  7,480,000 |   708 fps | eps 0.010 | perdida 0.0262 | Q 6.053 | ultimos 20: 1246.8
+paso  7,490,000 |   694 fps | eps 0.010 | perdida 0.0252 | Q 6.060 | ultimos 20: 1422.5
+paso  7,500,000 |   700 fps | eps 0.010 | perdida 0.0260 | Q 6.047 | ultimos 20: 1529.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 7,500,000: media 1096 +- 390 | max 1890 | E[mejor de 5] 1550
+paso  7,510,000 |   203 fps | eps 0.010 | perdida 0.0250 | Q 6.031 | ultimos 20: 1505.0
+paso  7,520,000 |   720 fps | eps 0.010 | perdida 0.0247 | Q 6.049 | ultimos 20: 1436.0
+paso  7,530,000 |   714 fps | eps 0.010 | perdida 0.0261 | Q 6.055 | ultimos 20: 1258.5
+paso  7,540,000 |   712 fps | eps 0.010 | perdida 0.0249 | Q 6.052 | ultimos 20: 1190.8
+paso  7,550,000 |   720 fps | eps 0.010 | perdida 0.0242 | Q 6.083 | ultimos 20: 1053.0
+paso  7,560,000 |   713 fps | eps 0.010 | perdida 0.0253 | Q 6.127 | ultimos 20: 1216.0
+paso  7,570,000 |   708 fps | eps 0.010 | perdida 0.0258 | Q 6.138 | ultimos 20: 1191.0
+paso  7,580,000 |   705 fps | eps 0.010 | perdida 0.0265 | Q 6.141 | ultimos 20: 1334.8
+paso  7,590,000 |   707 fps | eps 0.010 | perdida 0.0266 | Q 6.107 | ultimos 20: 1341.8
+paso  7,600,000 |   705 fps | eps 0.010 | perdida 0.0257 | Q 6.090 | ultimos 20: 1230.0
+paso  7,610,000 |   702 fps | eps 0.010 | perdida 0.0255 | Q 6.100 | ultimos 20: 1005.5
+paso  7,620,000 |   698 fps | eps 0.010 | perdida 0.0255 | Q 6.104 | ultimos 20: 1039.5
+paso  7,630,000 |   704 fps | eps 0.010 | perdida 0.0258 | Q 6.077 | ultimos 20: 1215.5
+paso  7,640,000 |   704 fps | eps 0.010 | perdida 0.0262 | Q 6.053 | ultimos 20: 1210.5
+paso  7,650,000 |   697 fps | eps 0.010 | perdida 0.0270 | Q 6.054 | ultimos 20: 1283.2
+paso  7,660,000 |   697 fps | eps 0.010 | perdida 0.0250 | Q 6.091 | ultimos 20: 1143.0
+paso  7,670,000 |   695 fps | eps 0.010 | perdida 0.0270 | Q 6.111 | ultimos 20: 1263.0
+paso  7,680,000 |   701 fps | eps 0.010 | perdida 0.0247 | Q 6.150 | ultimos 20: 1381.0
+paso  7,690,000 |   703 fps | eps 0.010 | perdida 0.0259 | Q 6.137 | ultimos 20: 1419.8
+paso  7,700,000 |   698 fps | eps 0.010 | perdida 0.0246 | Q 6.120 | ultimos 20: 1376.2
+paso  7,710,000 |   706 fps | eps 0.010 | perdida 0.0250 | Q 6.102 | ultimos 20: 1185.8
+paso  7,720,000 |   700 fps | eps 0.010 | perdida 0.0246 | Q 6.080 | ultimos 20: 1189.5
+paso  7,730,000 |   701 fps | eps 0.010 | perdida 0.0251 | Q 6.048 | ultimos 20: 1149.0
+paso  7,740,000 |   694 fps | eps 0.010 | perdida 0.0251 | Q 6.050 | ultimos 20: 1216.8
+paso  7,750,000 |   697 fps | eps 0.010 | perdida 0.0252 | Q 6.040 | ultimos 20: 1340.2
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 7,750,000: media 1296 +- 428 | max 2200 | E[mejor de 5] 1813
+paso  7,760,000 |   205 fps | eps 0.010 | perdida 0.0250 | Q 6.040 | ultimos 20: 1484.5
+paso  7,770,000 |   730 fps | eps 0.010 | perdida 0.0249 | Q 6.051 | ultimos 20: 1369.5
+paso  7,780,000 |   718 fps | eps 0.010 | perdida 0.0252 | Q 6.067 | ultimos 20: 1346.0
+paso  7,790,000 |   708 fps | eps 0.010 | perdida 0.0251 | Q 6.114 | ultimos 20: 1311.0
+paso  7,800,000 |   713 fps | eps 0.010 | perdida 0.0258 | Q 6.120 | ultimos 20: 1271.5
+paso  7,810,000 |   704 fps | eps 0.010 | perdida 0.0232 | Q 6.115 | ultimos 20: 1279.5
+paso  7,820,000 |   705 fps | eps 0.010 | perdida 0.0251 | Q 6.115 | ultimos 20: 1285.5
+paso  7,830,000 |   709 fps | eps 0.010 | perdida 0.0242 | Q 6.120 | ultimos 20: 1267.2
+paso  7,840,000 |   706 fps | eps 0.010 | perdida 0.0247 | Q 6.106 | ultimos 20: 1106.0
+paso  7,850,000 |   699 fps | eps 0.010 | perdida 0.0241 | Q 6.099 | ultimos 20: 1071.8
+paso  7,860,000 |   708 fps | eps 0.010 | perdida 0.0244 | Q 6.084 | ultimos 20: 1042.5
+paso  7,870,000 |   694 fps | eps 0.010 | perdida 0.0254 | Q 6.103 | ultimos 20: 1211.5
+paso  7,880,000 |   703 fps | eps 0.010 | perdida 0.0246 | Q 6.100 | ultimos 20: 1193.0
+paso  7,890,000 |   700 fps | eps 0.010 | perdida 0.0251 | Q 6.067 | ultimos 20: 1325.8
+paso  7,900,000 |   699 fps | eps 0.010 | perdida 0.0252 | Q 6.085 | ultimos 20: 1226.2
+paso  7,910,000 |   693 fps | eps 0.010 | perdida 0.0247 | Q 6.089 | ultimos 20: 1160.8
+paso  7,920,000 |   705 fps | eps 0.010 | perdida 0.0242 | Q 6.079 | ultimos 20: 1101.2
+paso  7,930,000 |   696 fps | eps 0.010 | perdida 0.0262 | Q 6.064 | ultimos 20: 1253.2
+paso  7,940,000 |   701 fps | eps 0.010 | perdida 0.0249 | Q 6.103 | ultimos 20: 1327.0
+paso  7,950,000 |   699 fps | eps 0.010 | perdida 0.0270 | Q 6.123 | ultimos 20: 1317.2
+paso  7,960,000 |   705 fps | eps 0.010 | perdida 0.0251 | Q 6.152 | ultimos 20: 1337.2
+paso  7,970,000 |   688 fps | eps 0.010 | perdida 0.0250 | Q 6.171 | ultimos 20: 1335.2
+paso  7,980,000 |   691 fps | eps 0.010 | perdida 0.0253 | Q 6.200 | ultimos 20: 1367.0
+paso  7,990,000 |   688 fps | eps 0.010 | perdida 0.0252 | Q 6.223 | ultimos 20: 1322.8
+paso  8,000,000 |   700 fps | eps 0.010 | perdida 0.0258 | Q 6.240 | ultimos 20: 1225.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 8,000,000: media 1360 +- 382 | max 2035 | E[mejor de 5] 1801
+paso  8,010,000 |   219 fps | eps 0.010 | perdida 0.0280 | Q 6.238 | ultimos 20: 1382.0
+paso  8,020,000 |   722 fps | eps 0.010 | perdida 0.0264 | Q 6.279 | ultimos 20: 1327.2
+paso  8,030,000 |   704 fps | eps 0.010 | perdida 0.0267 | Q 6.269 | ultimos 20: 1231.8
+paso  8,040,000 |   710 fps | eps 0.010 | perdida 0.0258 | Q 6.281 | ultimos 20: 1185.0
+paso  8,050,000 |   717 fps | eps 0.010 | perdida 0.0270 | Q 6.288 | ultimos 20: 1210.8
+paso  8,060,000 |   682 fps | eps 0.010 | perdida 0.0262 | Q 6.313 | ultimos 20: 1346.0
+paso  8,070,000 |   703 fps | eps 0.010 | perdida 0.0262 | Q 6.297 | ultimos 20: 1204.8
+paso  8,080,000 |   699 fps | eps 0.010 | perdida 0.0264 | Q 6.313 | ultimos 20: 999.0
+paso  8,090,000 |   708 fps | eps 0.010 | perdida 0.0269 | Q 6.310 | ultimos 20: 912.2
+paso  8,100,000 |   701 fps | eps 0.010 | perdida 0.0266 | Q 6.306 | ultimos 20: 1200.0
+paso  8,110,000 |   705 fps | eps 0.010 | perdida 0.0276 | Q 6.297 | ultimos 20: 1315.5
+paso  8,120,000 |   698 fps | eps 0.010 | perdida 0.0267 | Q 6.289 | ultimos 20: 1299.5
+paso  8,130,000 |   693 fps | eps 0.010 | perdida 0.0274 | Q 6.299 | ultimos 20: 1228.8
+paso  8,140,000 |   699 fps | eps 0.010 | perdida 0.0267 | Q 6.300 | ultimos 20: 1219.8
+paso  8,150,000 |   710 fps | eps 0.010 | perdida 0.0260 | Q 6.321 | ultimos 20: 1131.8
+paso  8,160,000 |   704 fps | eps 0.010 | perdida 0.0278 | Q 6.301 | ultimos 20: 1106.5
+paso  8,170,000 |   702 fps | eps 0.010 | perdida 0.0271 | Q 6.285 | ultimos 20: 1207.8
+paso  8,180,000 |   703 fps | eps 0.010 | perdida 0.0267 | Q 6.306 | ultimos 20: 1311.0
+paso  8,190,000 |   703 fps | eps 0.010 | perdida 0.0270 | Q 6.306 | ultimos 20: 1403.5
+paso  8,200,000 |   702 fps | eps 0.010 | perdida 0.0264 | Q 6.270 | ultimos 20: 1284.5
+paso  8,210,000 |   705 fps | eps 0.010 | perdida 0.0263 | Q 6.296 | ultimos 20: 1322.5
+paso  8,220,000 |   706 fps | eps 0.010 | perdida 0.0274 | Q 6.329 | ultimos 20: 1263.5
+paso  8,230,000 |   701 fps | eps 0.010 | perdida 0.0269 | Q 6.303 | ultimos 20: 1240.2
+paso  8,240,000 |   703 fps | eps 0.010 | perdida 0.0267 | Q 6.319 | ultimos 20: 1319.2
+paso  8,250,000 |   696 fps | eps 0.010 | perdida 0.0271 | Q 6.326 | ultimos 20: 1404.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 8,250,000: media 1380 +- 408 | max 2375 | E[mejor de 5] 1883
+paso  8,260,000 |   206 fps | eps 0.010 | perdida 0.0264 | Q 6.317 | ultimos 20: 1451.5
+paso  8,270,000 |   721 fps | eps 0.010 | perdida 0.0280 | Q 6.298 | ultimos 20: 1444.0
+paso  8,280,000 |   725 fps | eps 0.010 | perdida 0.0274 | Q 6.292 | ultimos 20: 1360.2
+paso  8,290,000 |   725 fps | eps 0.010 | perdida 0.0264 | Q 6.275 | ultimos 20: 1325.5
+paso  8,300,000 |   720 fps | eps 0.010 | perdida 0.0263 | Q 6.244 | ultimos 20: 1429.8
+paso  8,310,000 |   719 fps | eps 0.010 | perdida 0.0273 | Q 6.258 | ultimos 20: 1405.0
+paso  8,320,000 |   712 fps | eps 0.010 | perdida 0.0271 | Q 6.253 | ultimos 20: 1537.2
+paso  8,330,000 |   696 fps | eps 0.010 | perdida 0.0262 | Q 6.241 | ultimos 20: 1486.0
+paso  8,340,000 |   712 fps | eps 0.010 | perdida 0.0265 | Q 6.228 | ultimos 20: 1310.5
+paso  8,350,000 |   708 fps | eps 0.010 | perdida 0.0259 | Q 6.230 | ultimos 20: 1161.2
+paso  8,360,000 |   714 fps | eps 0.010 | perdida 0.0265 | Q 6.191 | ultimos 20: 1204.8
+paso  8,370,000 |   710 fps | eps 0.010 | perdida 0.0257 | Q 6.187 | ultimos 20: 1464.8
+paso  8,380,000 |   704 fps | eps 0.010 | perdida 0.0259 | Q 6.203 | ultimos 20: 1494.5
+paso  8,390,000 |   709 fps | eps 0.010 | perdida 0.0256 | Q 6.213 | ultimos 20: 1447.0
+paso  8,400,000 |   705 fps | eps 0.010 | perdida 0.0256 | Q 6.249 | ultimos 20: 1358.8
+paso  8,410,000 |   707 fps | eps 0.010 | perdida 0.0271 | Q 6.272 | ultimos 20: 1363.5
+paso  8,420,000 |   705 fps | eps 0.010 | perdida 0.0261 | Q 6.276 | ultimos 20: 1438.8
+paso  8,430,000 |   703 fps | eps 0.010 | perdida 0.0260 | Q 6.263 | ultimos 20: 1301.0
+paso  8,440,000 |   710 fps | eps 0.010 | perdida 0.0270 | Q 6.214 | ultimos 20: 1221.2
+paso  8,450,000 |   658 fps | eps 0.010 | perdida 0.0275 | Q 6.214 | ultimos 20: 1339.8
+paso  8,460,000 |   701 fps | eps 0.010 | perdida 0.0252 | Q 6.209 | ultimos 20: 1270.0
+paso  8,470,000 |   708 fps | eps 0.010 | perdida 0.0267 | Q 6.237 | ultimos 20: 1311.2
+paso  8,480,000 |   711 fps | eps 0.010 | perdida 0.0269 | Q 6.238 | ultimos 20: 1165.8
+paso  8,490,000 |   710 fps | eps 0.010 | perdida 0.0251 | Q 6.245 | ultimos 20: 1173.0
+paso  8,500,000 |   689 fps | eps 0.010 | perdida 0.0255 | Q 6.252 | ultimos 20: 1246.5
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 8,500,000: media 1212 +- 430 | max 2385 | E[mejor de 5] 1695
+paso  8,510,000 |   190 fps | eps 0.010 | perdida 0.0269 | Q 6.239 | ultimos 20: 1295.2
+paso  8,520,000 |   723 fps | eps 0.010 | perdida 0.0252 | Q 6.252 | ultimos 20: 1261.8
+paso  8,530,000 |   727 fps | eps 0.010 | perdida 0.0253 | Q 6.246 | ultimos 20: 1109.8
+paso  8,540,000 |   726 fps | eps 0.010 | perdida 0.0255 | Q 6.223 | ultimos 20: 1117.0
+paso  8,550,000 |   725 fps | eps 0.010 | perdida 0.0250 | Q 6.211 | ultimos 20: 1143.5
+paso  8,560,000 |   711 fps | eps 0.010 | perdida 0.0261 | Q 6.225 | ultimos 20: 1151.2
+paso  8,570,000 |   715 fps | eps 0.010 | perdida 0.0244 | Q 6.249 | ultimos 20: 1227.8
+paso  8,580,000 |   716 fps | eps 0.010 | perdida 0.0261 | Q 6.250 | ultimos 20: 1404.0
+paso  8,590,000 |   691 fps | eps 0.010 | perdida 0.0258 | Q 6.228 | ultimos 20: 1212.0
+paso  8,600,000 |   663 fps | eps 0.010 | perdida 0.0260 | Q 6.228 | ultimos 20: 1470.5
+paso  8,610,000 |   670 fps | eps 0.010 | perdida 0.0239 | Q 6.214 | ultimos 20: 1373.5
+paso  8,620,000 |   708 fps | eps 0.010 | perdida 0.0237 | Q 6.219 | ultimos 20: 1388.2
+paso  8,630,000 |   707 fps | eps 0.010 | perdida 0.0245 | Q 6.206 | ultimos 20: 1426.0
+paso  8,640,000 |   711 fps | eps 0.010 | perdida 0.0251 | Q 6.240 | ultimos 20: 1472.8
+paso  8,650,000 |   691 fps | eps 0.010 | perdida 0.0246 | Q 6.257 | ultimos 20: 1485.0
+paso  8,660,000 |   713 fps | eps 0.010 | perdida 0.0257 | Q 6.305 | ultimos 20: 1409.8
+paso  8,670,000 |   713 fps | eps 0.010 | perdida 0.0239 | Q 6.315 | ultimos 20: 1299.0
+paso  8,680,000 |   699 fps | eps 0.010 | perdida 0.0268 | Q 6.350 | ultimos 20: 1410.2
+paso  8,690,000 |   696 fps | eps 0.010 | perdida 0.0262 | Q 6.366 | ultimos 20: 1325.2
+paso  8,700,000 |   709 fps | eps 0.010 | perdida 0.0250 | Q 6.403 | ultimos 20: 1405.0
+paso  8,710,000 |   709 fps | eps 0.010 | perdida 0.0261 | Q 6.391 | ultimos 20: 1251.0
+paso  8,720,000 |   703 fps | eps 0.010 | perdida 0.0262 | Q 6.377 | ultimos 20: 1178.2
+paso  8,730,000 |   706 fps | eps 0.010 | perdida 0.0256 | Q 6.351 | ultimos 20: 1037.2
+paso  8,740,000 |   710 fps | eps 0.010 | perdida 0.0250 | Q 6.377 | ultimos 20: 1233.2
+paso  8,750,000 |   709 fps | eps 0.010 | perdida 0.0256 | Q 6.405 | ultimos 20: 1164.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by StellaA.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+]
+
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 8,750,000: media 1308 +- 498 | max 2435 | E[mejor de 5] 1912
+paso  8,760,000 |   194 fps | eps 0.010 | perdida 0.0256 | Q 6.379 | ultimos 20: 1267.2
+paso  8,770,000 |   722 fps | eps 0.010 | perdida 0.0249 | Q 6.393 | ultimos 20: 1210.2
+paso  8,780,000 |   728 fps | eps 0.010 | perdida 0.0256 | Q 6.400 | ultimos 20: 1319.0
+paso  8,790,000 |   714 fps | eps 0.010 | perdida 0.0235 | Q 6.380 | ultimos 20: 1377.0
+paso  8,800,000 |   710 fps | eps 0.010 | perdida 0.0249 | Q 6.351 | ultimos 20: 1283.0
+paso  8,810,000 |   713 fps | eps 0.010 | perdida 0.0245 | Q 6.348 | ultimos 20: 1295.0
+paso  8,820,000 |   710 fps | eps 0.010 | perdida 0.0250 | Q 6.367 | ultimos 20: 1344.0
+paso  8,830,000 |   715 fps | eps 0.010 | perdida 0.0257 | Q 6.380 | ultimos 20: 1519.0
+paso  8,840,000 |   711 fps | eps 0.010 | perdida 0.0255 | Q 6.388 | ultimos 20: 1532.5
+paso  8,850,000 |   717 fps | eps 0.010 | perdida 0.0260 | Q 6.413 | ultimos 20: 1415.5
+paso  8,860,000 |   707 fps | eps 0.010 | perdida 0.0247 | Q 6.404 | ultimos 20: 1260.5
+paso  8,870,000 |   708 fps | eps 0.010 | perdida 0.0263 | Q 6.404 | ultimos 20: 1280.2
+paso  8,880,000 |   707 fps | eps 0.010 | perdida 0.0269 | Q 6.389 | ultimos 20: 1462.8
+paso  8,890,000 |   709 fps | eps 0.010 | perdida 0.0258 | Q 6.379 | ultimos 20: 1454.5
+paso  8,900,000 |   705 fps | eps 0.010 | perdida 0.0263 | Q 6.365 | ultimos 20: 1537.8
+paso  8,910,000 |   714 fps | eps 0.010 | perdida 0.0260 | Q 6.315 | ultimos 20: 1393.5
+paso  8,920,000 |   704 fps | eps 0.010 | perdida 0.0258 | Q 6.274 | ultimos 20: 1442.8
+paso  8,930,000 |   711 fps | eps 0.010 | perdida 0.0260 | Q 6.291 | ultimos 20: 1284.5
+paso  8,940,000 |   705 fps | eps 0.010 | perdida 0.0242 | Q 6.266 | ultimos 20: 1283.2
+paso  8,950,000 |   704 fps | eps 0.010 | perdida 0.0257 | Q 6.259 | ultimos 20: 1220.8
+paso  8,960,000 |   703 fps | eps 0.010 | perdida 0.0254 | Q 6.291 | ultimos 20: 1350.8
+paso  8,970,000 |   707 fps | eps 0.010 | perdida 0.0258 | Q 6.315 | ultimos 20: 1389.8
+paso  8,980,000 |   701 fps | eps 0.010 | perdida 0.0248 | Q 6.302 | ultimos 20: 1468.5
+paso  8,990,000 |   700 fps | eps 0.010 | perdida 0.0257 | Q 6.250 | ultimos 20: 1267.2
+paso  9,000,000 |   706 fps | eps 0.010 | perdida 0.0254 | Q 6.244 | ultimos 20: 1318.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 9,000,000: media 1642 +- 521 | max 2455 | E[mejor de 5] 2216  <- mejor
+paso  9,010,000 |   201 fps | eps 0.010 | perdida 0.0249 | Q 6.252 | ultimos 20: 1252.8
+paso  9,020,000 |   728 fps | eps 0.010 | perdida 0.0253 | Q 6.226 | ultimos 20: 1466.2
+paso  9,030,000 |   724 fps | eps 0.010 | perdida 0.0260 | Q 6.215 | ultimos 20: 1483.0
+paso  9,040,000 |   721 fps | eps 0.010 | perdida 0.0249 | Q 6.220 | ultimos 20: 1439.2
+paso  9,050,000 |   714 fps | eps 0.010 | perdida 0.0248 | Q 6.222 | ultimos 20: 1383.8
+paso  9,060,000 |   714 fps | eps 0.010 | perdida 0.0252 | Q 6.236 | ultimos 20: 1247.8
+paso  9,070,000 |   712 fps | eps 0.010 | perdida 0.0251 | Q 6.239 | ultimos 20: 1227.8
+paso  9,080,000 |   716 fps | eps 0.010 | perdida 0.0250 | Q 6.250 | ultimos 20: 1207.2
+paso  9,090,000 |   714 fps | eps 0.010 | perdida 0.0237 | Q 6.246 | ultimos 20: 1319.0
+paso  9,100,000 |   707 fps | eps 0.010 | perdida 0.0244 | Q 6.204 | ultimos 20: 1298.8
+paso  9,110,000 |   701 fps | eps 0.010 | perdida 0.0242 | Q 6.188 | ultimos 20: 1264.5
+paso  9,120,000 |   706 fps | eps 0.010 | perdida 0.0233 | Q 6.178 | ultimos 20: 1203.5
+paso  9,130,000 |   708 fps | eps 0.010 | perdida 0.0258 | Q 6.153 | ultimos 20: 1292.0
+paso  9,140,000 |   706 fps | eps 0.010 | perdida 0.0242 | Q 6.144 | ultimos 20: 1419.5
+paso  9,150,000 |   711 fps | eps 0.010 | perdida 0.0257 | Q 6.156 | ultimos 20: 1330.8
+paso  9,160,000 |   707 fps | eps 0.010 | perdida 0.0238 | Q 6.161 | ultimos 20: 1300.0
+paso  9,170,000 |   703 fps | eps 0.010 | perdida 0.0245 | Q 6.195 | ultimos 20: 1186.0
+paso  9,180,000 |   702 fps | eps 0.010 | perdida 0.0246 | Q 6.198 | ultimos 20: 1259.8
+paso  9,190,000 |   707 fps | eps 0.010 | perdida 0.0242 | Q 6.161 | ultimos 20: 1203.2
+paso  9,200,000 |   699 fps | eps 0.010 | perdida 0.0257 | Q 6.142 | ultimos 20: 1249.5
+paso  9,210,000 |   705 fps | eps 0.010 | perdida 0.0246 | Q 6.160 | ultimos 20: 1188.5
+paso  9,220,000 |   701 fps | eps 0.010 | perdida 0.0247 | Q 6.174 | ultimos 20: 1172.8
+paso  9,230,000 |   706 fps | eps 0.010 | perdida 0.0256 | Q 6.171 | ultimos 20: 1344.5
+paso  9,240,000 |   682 fps | eps 0.010 | perdida 0.0239 | Q 6.170 | ultimos 20: 1563.2
+paso  9,250,000 |   712 fps | eps 0.010 | perdida 0.0245 | Q 6.168 | ultimos 20: 1560.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 9,250,000: media 1608 +- 724 | max 3335 | E[mejor de 5] 2501  <- mejor
+paso  9,260,000 |   178 fps | eps 0.010 | perdida 0.0243 | Q 6.180 | ultimos 20: 1702.5
+paso  9,270,000 |   718 fps | eps 0.010 | perdida 0.0238 | Q 6.144 | ultimos 20: 1450.0
+paso  9,280,000 |   716 fps | eps 0.010 | perdida 0.0240 | Q 6.145 | ultimos 20: 1262.2
+paso  9,290,000 |   722 fps | eps 0.010 | perdida 0.0230 | Q 6.166 | ultimos 20: 1148.5
+paso  9,300,000 |   715 fps | eps 0.010 | perdida 0.0248 | Q 6.171 | ultimos 20: 1130.8
+paso  9,310,000 |   717 fps | eps 0.010 | perdida 0.0241 | Q 6.199 | ultimos 20: 1337.8
+paso  9,320,000 |   712 fps | eps 0.010 | perdida 0.0250 | Q 6.181 | ultimos 20: 1371.8
+paso  9,330,000 |   713 fps | eps 0.010 | perdida 0.0242 | Q 6.180 | ultimos 20: 1389.0
+paso  9,340,000 |   704 fps | eps 0.010 | perdida 0.0249 | Q 6.183 | ultimos 20: 1363.5
+paso  9,350,000 |   708 fps | eps 0.010 | perdida 0.0247 | Q 6.206 | ultimos 20: 1323.8
+paso  9,360,000 |   709 fps | eps 0.010 | perdida 0.0248 | Q 6.204 | ultimos 20: 1344.0
+paso  9,370,000 |   711 fps | eps 0.010 | perdida 0.0244 | Q 6.207 | ultimos 20: 1399.8
+paso  9,380,000 |   691 fps | eps 0.010 | perdida 0.0237 | Q 6.197 | ultimos 20: 1421.0
+paso  9,390,000 |   699 fps | eps 0.010 | perdida 0.0244 | Q 6.254 | ultimos 20: 1558.2
+paso  9,400,000 |   711 fps | eps 0.010 | perdida 0.0252 | Q 6.255 | ultimos 20: 1555.0
+paso  9,410,000 |   698 fps | eps 0.010 | perdida 0.0240 | Q 6.268 | ultimos 20: 1466.0
+paso  9,420,000 |   707 fps | eps 0.010 | perdida 0.0249 | Q 6.260 | ultimos 20: 1369.2
+paso  9,430,000 |   706 fps | eps 0.010 | perdida 0.0252 | Q 6.239 | ultimos 20: 1473.0
+paso  9,440,000 |   711 fps | eps 0.010 | perdida 0.0249 | Q 6.226 | ultimos 20: 1520.8
+paso  9,450,000 |   704 fps | eps 0.010 | perdida 0.0235 | Q 6.240 | ultimos 20: 1624.8
+paso  9,460,000 |   708 fps | eps 0.010 | perdida 0.0255 | Q 6.250 | ultimos 20: 1349.5
+paso  9,470,000 |   692 fps | eps 0.010 | perdida 0.0244 | Q 6.209 | ultimos 20: 1385.8
+paso  9,480,000 |   712 fps | eps 0.010 | perdida 0.0248 | Q 6.162 | ultimos 20: 1100.0
+paso  9,490,000 |   700 fps | eps 0.010 | perdida 0.0244 | Q 6.183 | ultimos 20: 1005.5
+paso  9,500,000 |   706 fps | eps 0.010 | perdida 0.0245 | Q 6.149 | ultimos 20: 1081.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 9,500,000: media 1136 +- 633 | max 2670 | E[mejor de 5] 1951
+paso  9,510,000 |   206 fps | eps 0.010 | perdida 0.0249 | Q 6.154 | ultimos 20: 1123.0
+paso  9,520,000 |   723 fps | eps 0.010 | perdida 0.0244 | Q 6.141 | ultimos 20: 1238.0
+paso  9,530,000 |   714 fps | eps 0.010 | perdida 0.0244 | Q 6.129 | ultimos 20: 1073.8
+paso  9,540,000 |   725 fps | eps 0.010 | perdida 0.0250 | Q 6.151 | ultimos 20: 1175.0
+paso  9,550,000 |   713 fps | eps 0.010 | perdida 0.0244 | Q 6.120 | ultimos 20: 1193.5
+paso  9,560,000 |   712 fps | eps 0.010 | perdida 0.0262 | Q 6.134 | ultimos 20: 1202.0
+paso  9,570,000 |   716 fps | eps 0.010 | perdida 0.0248 | Q 6.144 | ultimos 20: 1288.0
+paso  9,580,000 |   710 fps | eps 0.010 | perdida 0.0232 | Q 6.146 | ultimos 20: 1360.5
+paso  9,590,000 |   679 fps | eps 0.010 | perdida 0.0239 | Q 6.160 | ultimos 20: 1401.8
+paso  9,600,000 |   681 fps | eps 0.010 | perdida 0.0248 | Q 6.166 | ultimos 20: 1373.0
+paso  9,610,000 |   709 fps | eps 0.010 | perdida 0.0253 | Q 6.154 | ultimos 20: 1371.5
+paso  9,620,000 |   710 fps | eps 0.010 | perdida 0.0254 | Q 6.140 | ultimos 20: 1289.0
+paso  9,630,000 |   714 fps | eps 0.010 | perdida 0.0238 | Q 6.120 | ultimos 20: 1547.2
+paso  9,640,000 |   699 fps | eps 0.010 | perdida 0.0244 | Q 6.124 | ultimos 20: 1534.8
+paso  9,650,000 |   708 fps | eps 0.010 | perdida 0.0240 | Q 6.118 | ultimos 20: 1458.0
+paso  9,660,000 |   703 fps | eps 0.010 | perdida 0.0248 | Q 6.088 | ultimos 20: 1346.0
+paso  9,670,000 |   705 fps | eps 0.010 | perdida 0.0242 | Q 6.067 | ultimos 20: 1192.2
+paso  9,680,000 |   701 fps | eps 0.010 | perdida 0.0253 | Q 6.067 | ultimos 20: 1150.0
+paso  9,690,000 |   702 fps | eps 0.010 | perdida 0.0249 | Q 6.077 | ultimos 20: 1061.8
+paso  9,700,000 |   704 fps | eps 0.010 | perdida 0.0256 | Q 6.086 | ultimos 20: 1213.5
+paso  9,710,000 |   707 fps | eps 0.010 | perdida 0.0257 | Q 6.100 | ultimos 20: 1216.2
+paso  9,720,000 |   702 fps | eps 0.010 | perdida 0.0268 | Q 6.089 | ultimos 20: 1274.8
+paso  9,730,000 |   704 fps | eps 0.010 | perdida 0.0273 | Q 6.091 | ultimos 20: 1132.2
+paso  9,740,000 |   703 fps | eps 0.010 | perdida 0.0258 | Q 6.048 | ultimos 20: 1157.0
+paso  9,750,000 |   697 fps | eps 0.010 | perdida 0.0276 | Q 6.052 | ultimos 20: 1123.0
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 9,750,000: media 1028 +- 394 | max 1730 | E[mejor de 5] 1471
+paso  9,760,000 |   221 fps | eps 0.010 | perdida 0.0259 | Q 6.026 | ultimos 20: 1251.2
+paso  9,770,000 |   719 fps | eps 0.010 | perdida 0.0256 | Q 6.026 | ultimos 20: 1228.8
+paso  9,780,000 |   727 fps | eps 0.010 | perdida 0.0244 | Q 6.012 | ultimos 20: 1233.8
+paso  9,790,000 |   713 fps | eps 0.010 | perdida 0.0259 | Q 6.005 | ultimos 20: 1052.2
+paso  9,800,000 |   693 fps | eps 0.010 | perdida 0.0261 | Q 6.005 | ultimos 20: 1090.8
+paso  9,810,000 |   712 fps | eps 0.010 | perdida 0.0250 | Q 6.006 | ultimos 20: 1008.5
+paso  9,820,000 |   713 fps | eps 0.010 | perdida 0.0241 | Q 6.036 | ultimos 20: 1057.2
+paso  9,830,000 |   703 fps | eps 0.010 | perdida 0.0250 | Q 6.058 | ultimos 20: 1118.0
+paso  9,840,000 |   711 fps | eps 0.010 | perdida 0.0250 | Q 6.062 | ultimos 20: 1326.2
+paso  9,850,000 |   706 fps | eps 0.010 | perdida 0.0258 | Q 6.049 | ultimos 20: 1381.0
+paso  9,860,000 |   708 fps | eps 0.010 | perdida 0.0268 | Q 6.068 | ultimos 20: 1479.2
+paso  9,870,000 |   707 fps | eps 0.010 | perdida 0.0262 | Q 6.054 | ultimos 20: 1466.5
+paso  9,880,000 |   705 fps | eps 0.010 | perdida 0.0258 | Q 6.047 | ultimos 20: 1440.5
+paso  9,890,000 |   702 fps | eps 0.010 | perdida 0.0252 | Q 6.025 | ultimos 20: 1458.5
+paso  9,900,000 |   704 fps | eps 0.010 | perdida 0.0267 | Q 6.049 | ultimos 20: 1329.8
+paso  9,910,000 |   707 fps | eps 0.010 | perdida 0.0257 | Q 6.025 | ultimos 20: 1359.8
+paso  9,920,000 |   701 fps | eps 0.010 | perdida 0.0275 | Q 5.980 | ultimos 20: 1256.0
+paso  9,930,000 |   708 fps | eps 0.010 | perdida 0.0251 | Q 5.978 | ultimos 20: 1208.0
+paso  9,940,000 |   704 fps | eps 0.010 | perdida 0.0254 | Q 5.959 | ultimos 20: 1226.5
+paso  9,950,000 |   704 fps | eps 0.010 | perdida 0.0246 | Q 5.977 | ultimos 20: 1115.8
+paso  9,960,000 |   699 fps | eps 0.010 | perdida 0.0267 | Q 5.996 | ultimos 20: 1171.0
+paso  9,970,000 |   699 fps | eps 0.010 | perdida 0.0253 | Q 6.025 | ultimos 20: 1150.8
+paso  9,980,000 |   696 fps | eps 0.010 | perdida 0.0247 | Q 6.040 | ultimos 20: 1148.5
+paso  9,990,000 |   705 fps | eps 0.010 | perdida 0.0256 | Q 6.050 | ultimos 20: 1145.0
+paso 10,000,000 |   698 fps | eps 0.010 | perdida 0.0245 | Q 6.044 | ultimos 20: 1163.8
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+A.L.E: Arcade Learning Environment (version 0.12.1+8a8fafb)
+[Powered by Stella]
+EVAL paso 10,000,000: media 1249 +- 604 | max 2430 | E[mejor de 5] 1997
+Listo: 10,000,000 pasos en 253.3 min. Resultados en C:\Users\antho\Desktop\ProyectoDL2-Isa\runs\ddqn-dueling-10M

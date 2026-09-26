@@ -1,0 +1,4 @@
+run: ddqn-dueling-10M
+paso: 9250000
+seleccion: 64 partidas greedy, semilla 777000
+media 1416.7 +- 601.2, max 2865.0, E[mejor de 5] 2127.2, p20 1800.0

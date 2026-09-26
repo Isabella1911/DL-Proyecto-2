@@ -1,0 +1,21 @@
+{
+  "pasos_totales": 10000000,
+  "n_envs": 8,
+  "seed": 0,
+  "dueling": true,
+  "double": true,
+  "capacidad_buffer": 500000,
+  "pasos_antes_de_aprender": 50000,
+  "lr": 0.0001,
+  "adam_eps": 0.00015,
+  "batch_size": 32,
+  "gamma": 0.99,
+  "pasos_por_update": 4,
+  "periodo_red_objetivo": 8000,
+  "max_norma_gradiente": 10.0,
+  "epsilon_inicial": 1.0,
+  "epsilon_final": 0.01,
+  "pasos_decaimiento_epsilon": 1000000,
+  "periodo_evaluacion": 250000,
+  "episodios_evaluacion": 16
+}

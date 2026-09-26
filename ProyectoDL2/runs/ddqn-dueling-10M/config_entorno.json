@@ -1,0 +1,9 @@
+{
+  "env_id": "ALE/SpaceInvaders-v5",
+  "repeat_action_probability": 0.25,
+  "full_action_space": false,
+  "frame_skip": 4,
+  "screen_size": 84,
+  "frames_apilados": 4,
+  "noop_max": 30
+}

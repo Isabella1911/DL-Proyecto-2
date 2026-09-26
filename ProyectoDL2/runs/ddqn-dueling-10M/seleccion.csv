@@ -1,0 +1,6 @@
+paso,pesos,n,media,std,min,max,E_mejor_de_5,p20_mejor_de_5
+7000000,runs\ddqn-dueling-10M\checkpoints\paso_07000000.pt,64,1258.0,592.5,515.0,2920.0,2003.0,1405.0
+9000000,runs\ddqn-dueling-10M\checkpoints\paso_09000000.pt,64,1411.5,570.1,515.0,2945.0,2116.1,1805.0
+9250000,runs\ddqn-dueling-10M\checkpoints\paso_09250000.pt,64,1416.7,601.2,485.0,2865.0,2127.2,1800.0
+9500000,runs\ddqn-dueling-10M\checkpoints\paso_09500000.pt,64,1193.8,561.9,295.0,2915.0,1898.2,1350.0
+10000000,runs\ddqn-dueling-10M\checkpoints\paso_10000000.pt,64,1279.8,558.9,340.0,2690.0,1975.6,1400.0

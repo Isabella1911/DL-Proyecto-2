@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Artefactos pesados de entrenamiento: se versionan los CSV, los JSON de
+# configuracion y los pesos finales (mejor.pt / agente_final/), no los
+# checkpoints intermedios ni el estado completo para reanudar.
+runs/*/checkpoints/
+runs/*/ultimo.pt
+runs/*/final.pt
+runs/humo/

@@ -1,0 +1,153 @@
+{
+  "entorno": {
+    "observacion_cruda": {
+      "forma": [
+        210,
+        160,
+        3
+      ],
+      "dtype": "uint8"
+    },
+    "acciones_minimas": [
+      "NOOP",
+      "FIRE",
+      "RIGHT",
+      "LEFT",
+      "RIGHTFIRE",
+      "LEFTFIRE"
+    ],
+    "n_acciones_full_action_space": 18,
+    "vidas_iniciales": 3,
+    "kwargs_v5": {
+      "repeat_action_probability": 0.25,
+      "full_action_space": false,
+      "frameskip": 4,
+      "max_num_frames_per_episode": 108000
+    },
+    "max_frames_por_episodio": 108000
+  },
+  "config_preprocesamiento": {
+    "env_id": "ALE/SpaceInvaders-v5",
+    "repeat_action_probability": 0.25,
+    "full_action_space": false,
+    "frame_skip": 4,
+    "screen_size": 84,
+    "frames_apilados": 4,
+    "noop_max": 30
+  },
+  "aleatorio": {
+    "resumen": {
+      "n": 30,
+      "media": 147.33333333333334,
+      "std": 97.67064838299966,
+      "min": 45.0,
+      "max": 410.0,
+      "E_mejor_de_5": 275.0365090534979,
+      "p20_mejor_de_5": 185.0
+    },
+    "largo_medio": 491.43333333333334,
+    "puntajes": [
+      65.0,
+      125.0,
+      50.0,
+      380.0,
+      110.0,
+      180.0,
+      105.0,
+      195.0,
+      50.0,
+      75.0,
+      60.0,
+      45.0,
+      410.0,
+      75.0,
+      80.0,
+      45.0,
+      90.0,
+      180.0,
+      75.0,
+      210.0,
+      250.0,
+      185.0,
+      310.0,
+      150.0,
+      110.0,
+      100.0,
+      150.0,
+      285.0,
+      215.0,
+      60.0
+    ],
+    "valores_recompensa": {
+      "5": 62,
+      "10": 58,
+      "15": 50,
+      "20": 39,
+      "25": 32,
+      "30": 20,
+      "200": 3
+    },
+    "fraccion_pasos_con_recompensa": 0.017906803228650885,
+    "pasos_medios_entre_recompensas": 48.125,
+    "recompensa_media_por_vida": 49.111111111111114,
+    "terminated": 30,
+    "truncated": 0
+  },
+  "siempre_fire": {
+    "resumen": {
+      "n": 30,
+      "media": 285.0,
+      "std": 0.0,
+      "min": 285.0,
+      "max": 285.0,
+      "E_mejor_de_5": 285.0,
+      "p20_mejor_de_5": 285.0
+    },
+    "largo_medio": 722.1,
+    "puntajes": [
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0,
+      285.0
+    ],
+    "valores_recompensa": {
+      "5": 90,
+      "10": 90,
+      "15": 90,
+      "20": 90,
+      "25": 90,
+      "30": 60
+    },
+    "fraccion_pasos_con_recompensa": 0.023542445644647556,
+    "pasos_medios_entre_recompensas": 41.36862745098039,
+    "recompensa_media_por_vida": 95.0,
+    "terminated": 30,
+    "truncated": 0
+  }
+}

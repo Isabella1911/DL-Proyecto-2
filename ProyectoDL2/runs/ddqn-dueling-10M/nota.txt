@@ -1,0 +1,1 @@
+Iteracion 1: Double + Dueling DQN, hiperparametros de Atari estilo Dopamine (Adam lr 1e-4, batch 32, update cada 4 pasos, red objetivo cada 8k, epsilon 1->0.01 en 1M). Buffer 500k (limite de RAM: 1M no cabe con 7.8 GB libres).
